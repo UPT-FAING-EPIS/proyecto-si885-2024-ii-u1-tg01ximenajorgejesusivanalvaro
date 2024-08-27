@@ -109,11 +109,30 @@ Versión *{1.0}*
 
     3.1. Planteamiento del problema
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+    
+    En la actualidad, los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna (UPT) enfrentan diversos desafíos en la gestión de su rendimiento académico. Estos desafíos incluyen la falta de herramientas adecuadas para acceder a estadísticas detalladas sobre los cursos, la dificultad para tomar decisiones informadas basadas en datos claros y la ausencia de una plataforma centralizada para visualizar su progreso académico.
+
+
+    + **Falta de acceso a información académica personalizada:** La escuela dispone de un sistema administrativo que gestiona las estadísticas académicas a nivel institucional. Sin embargo, los estudiantes no tienen acceso directo a una plataforma que les permita visualizar de manera clara y personalizada datos como tasas de aprobación, índices de deserción y distribución de calificaciones en los cursos que les interesan. Esto limita su capacidad para evaluar y planificar su trayectoria académica de manera efectiva.
+    
+    + __Dificultades para tomar decisiones informadas:__ La carencia de herramientas accesibles y comprensibles para los estudiantes implica que deben tomar decisiones basadas en percepciones o información incompleta. Esta situación puede llevar a una planificación académica menos eficaz y a un rendimiento subóptimo en los cursos.
+    
+    + **Impacto en el rendimiento académico:** Sin acceso a una visión detallada y precisa de su rendimiento académico, los estudiantes pueden enfrentar dificultades para identificar áreas de mejora y ajustar su enfoque de estudio, lo que afecta negativamente su desempeño y progreso académico.
+
+    + **Necesidad de una plataforma de visualización de datos**: Es fundamental desarrollar una herramienta analítica que permita a los estudiantes acceder a estadísticas relevantes y personalizadas sobre los cursos. Esta plataforma debería facilitar la toma de decisiones informadas, mejorar la planificación académica y optimizar el rendimiento académico de los estudiantes.
+
 
     3.2. Consideraciones de hardware y software
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+    + **Sistema Operativo:** 
+    Los programas utilizados para el desarrollo de la aplicación web son compatibles con Windows y macOS. 
+
+    + **Visual Studio Code:** 
+    Es necesario instalar Visual Studio Code (versión 1.89), que es un entorno de desarrollo integrado (IDE) ligero y altamente personalizable. Se pueden agregar extensiones específicas para ayudar en el desarrollo del sistema. 
+    
+    + **Power BI:** 
+    Se usará para crear informes y gráficos interactivos, y dashboard; integrando datos de diversas fuentes para facilitar la toma de decisiones.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
