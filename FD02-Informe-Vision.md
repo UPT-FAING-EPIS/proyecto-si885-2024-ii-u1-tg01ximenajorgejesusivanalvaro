@@ -10,7 +10,7 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *PAMIS***
+***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
 
 Curso: *Inteligencia de Negocios*
 
@@ -33,6 +33,7 @@ Integrantes:
 
 ***2024***
 **  **
+
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -40,24 +41,14 @@ Integrantes:
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
 |1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+<br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-**Sistema *{Nombre del Sistema}***
+***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
 
 **Documento de Visión**
 
 **Versión *{1.0}***
-**
+**  **
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -142,7 +133,7 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 
 [WEBGRAFIA](#_Toc52661358)
 
-
+****
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 **<u>Informe de Visión</u>**
