@@ -10,7 +10,7 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *PAMIS***
+***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
 
 Curso: *Inteligencia de Negocios*
 
@@ -33,6 +33,7 @@ Integrantes:
 
 ***2024***
 **  **
+
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -40,24 +41,14 @@ Integrantes:
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
 |1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+<br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-**Sistema *{Nombre del Sistema}***
+***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
 
 **Documento de Visión**
 
 **Versión *{1.0}***
-**
+**  **
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -142,24 +133,29 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 
 [WEBGRAFIA](#_Toc52661358)
 
-
+****
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 **<u>Informe de Visión</u>**
 
-1. <span id="_Toc52661346" class="anchor"></span>**Introducción**
+1. <span id="_Toc52661346" class="anchor"></span>**1. Introducción**
 
-    1.1	Propósito
+1.1 Propósito
 
-    1.2	Alcance
+1.2 Alcance
 
-    1.3	Definiciones, Siglas y Abreviaturas
+1.3 Definiciones, Siglas y Abreviaturas
 
-    1.4	Referencias
+1.4 Referencias
 
-    1.5	Visión General
+1.5 Visión General
+
+El proyecto PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) tiene como objetivo principal desarrollar una herramienta analítica que permita a la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna obtener una comprensión profunda del desempeño académico de sus estudiantes. Esta plataforma proporcionará un análisis detallado de datos de matrículas, rendimiento académico, tasas de aprobación y otros indicadores clave, facilitando la identificación de patrones y tendencias que puedan guiar la toma de decisiones estratégicas para mejorar la calidad educativa.
+
+PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con una interfaz visual que permite a los usuarios explorar los datos de manera interactiva. La plataforma no solo permitirá la visualización clara de estos datos mediante gráficos y tablas, sino que también generará informes que ofrecerán recomendaciones basadas en análisis estadísticos. Estos informes ayudarán a los estudiantes y a la administración a tomar decisiones informadas sobre el proceso educativo, optimizando los resultados académicos y contribuyendo al éxito general de los programas de ingeniería.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 2. <span id="_Toc52661347" class="anchor"></span>**Posicionamiento**
 
