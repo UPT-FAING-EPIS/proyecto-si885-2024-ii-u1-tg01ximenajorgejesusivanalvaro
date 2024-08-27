@@ -102,7 +102,12 @@ PAMIS está diseñada para ofrecer una solución integral que permita a la admin
 
 ### 1.1 Propósito
 
+El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a la Escuela Profesional de Ingeniería de Sistemas abordar varios desafíos relacionados con el análisis del desempeño académico de sus estudiantes. Estos desafíos incluyen la falta de acceso a herramientas analíticas detalladas, la necesidad de identificar patrones de rendimiento a lo largo del tiempo y la importancia de tomar decisiones estratégicas basadas en datos concretos.
 
+**Se incluye:**
+- Facilitar el Análisis Académico: Proporcionar una plataforma que permita a los usuarios analizar datos de matriculación y rendimiento académico de manera eficiente, identificando tendencias y patrones clave.
+- Mejorar la Toma de Decisiones: Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas, tanto para la administración como para los estudiantes.
+- Optimizar los Resultados Educativos: A través del análisis de datos y la identificación de áreas de mejora, ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación.
 
 ### 1.2 Alcance
 
