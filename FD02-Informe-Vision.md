@@ -111,9 +111,22 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
 
 ### 1.2 Alcance
 
-
-
-
+**Inclusiones:**
+- Desarrollo de una Plataforma Web:
+  - Creación de una interfaz de usuario intuitiva y accesible, diseñada para facilitar la exploración interactiva de datos académicos.
+  - Implementación de funcionalidades que permitan a los usuarios visualizar datos de matriculación, rendimiento académico y tasas de aprobación mediante gráficos y tablas detalladas.
+- **Funcionalidades Clave:**
+  - Análisis detallado de los datos de matrículas, rendimiento académico y otros indicadores clave.
+  - Generación de informes automatizados con recomendaciones basadas en análisis estadísticos.
+  - Exploración interactiva de los datos para identificar patrones y tendencias que puedan guiar la toma de decisiones.
+- **Soporte Tecnológico:**
+  - Incorporación de tecnologías de análisis de datos y visualización interactiva.
+  - Mantenimiento y actualizaciones continuas de la plataforma, basadas en el feedback de los usuarios y las necesidades emergentes.
+  
+**Exclusiones:**
+- Servicios Educativos Directos: PAMIS no proporcionará servicios educativos directos ni consultas académicas personalizadas.
+- Gestión de Otros Programas Académicos: El enfoque estará limitado a la Ingeniería de Sistemas, y no se incluirá la gestión de otros programas académicos.
+- Soporte Legal o Administrativo: La plataforma no ofrecerá asistencia legal ni soporte administrativo más allá del análisis de datos académicos.
 
 ### 1.3 Definiciones, Siglas y Abreviaturas
 
