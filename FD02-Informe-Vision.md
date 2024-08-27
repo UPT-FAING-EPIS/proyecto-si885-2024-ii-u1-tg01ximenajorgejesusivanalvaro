@@ -9,17 +9,15 @@
 **Plataforma de análisis de datos de matriculados en la carrera de Ingeniería de Sistemas para la Universidad Privada de Tacna - PAMIS**
 
 Curso: *Inteligencia de Negocios*  
-Docente: *Ing. Patrick Cuadros Quiroga*
+Docente: *Mag. Patrick Cuadros Quiroga*
 
 **Integrantes:**
 
-<p style="font-size: 13px;">
-Agreda Ramirez, Jesus Eduardo &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069823)  
-Castañeda Centurion, Jorge Enrique &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069822)  
-Contreras Lipa, Alvaro Javier &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- &emsp;  (2021070020)  
-Malaga Espinoza, Ivan Francisco &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021071086)  
-Ortiz Fernandez, Ximena Andrea &emsp;&emsp;&emsp;&emsp;&emsp;- &emsp;  (2021071080)
-</p>
+<p style="font-size: 13px;">Agreda Ramirez, Jesus Eduardo  &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069823)
+<br>Castañeda Centurion, Jorge Enrique &emsp; - &emsp; (2021069822)
+<br>Contreras Lipa Alvaro Javier &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; - &emsp;  (2021070020)
+<br>Malaga Espinoza, Ivan Francisco &emsp;&emsp;&ensp; - &emsp; (2021071086)
+<br>Ortiz Fernandez, Ximena Andrea &emsp;&emsp;&ensp; - &emsp;  (2021071080)</p>
 
 **Tacna – Perú**  
 ***2024***
