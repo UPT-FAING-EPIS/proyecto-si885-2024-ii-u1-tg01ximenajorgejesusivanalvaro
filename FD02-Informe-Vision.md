@@ -133,7 +133,8 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
 - Análisis de datos: Proceso de recopilación, limpieza, transformación y modelado de datos con el objetivo de descubrir patrones, tendencias y relaciones significativas.
 - Interfaz de usuario: Conjunto de elementos visuales y controles que permiten a un usuario interactuar con un software o aplicación. 
 ### 1.4 Referencias
-
+- Universidad Privada de Tacna. (2024, 26 agosto).  
+ *https://www.upt.edu.pe/upt/web/index.php*
 ### 1.5 Visión General
 
 El proyecto PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) tiene como objetivo principal desarrollar una herramienta analítica que permita a la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna obtener una comprensión profunda del desempeño académico de sus estudiantes. Esta plataforma proporcionará un análisis detallado de datos de matrículas, rendimiento académico, tasas de aprobación y otros indicadores clave, facilitando la identificación de patrones y tendencias que puedan guiar la toma de decisiones estratégicas para mejorar la calidad educativa.
