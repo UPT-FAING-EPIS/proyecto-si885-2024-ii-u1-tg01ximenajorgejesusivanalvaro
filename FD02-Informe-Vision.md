@@ -94,32 +94,32 @@ Docente: *Mag. Patrick Cuadros Quiroga*
 
 ## 1. Introducción
 
-En un entorno académico cada vez más complejo, donde el rendimiento estudiantil y la eficiencia de los programas educativos son fundamentales para el éxito de una institución, la capacidad de analizar y comprender datos detallados es crucial. La Plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) surge como una respuesta innovadora a la necesidad de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna de obtener una visión clara y profunda del desempeño académico de sus estudiantes.
+En un entorno académico cada vez más complejo, donde el rendimiento estudiantil y la eficiencia de los programas educativos son fundamentales para el éxito de una institución, la capacidad de analizar y comprender datos detallados es crucial. La Plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) surge como una respuesta innovadora a la necesidad de los actuales y futuros estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna de obtener una visión clara y profunda del desempeño académico que presenta la carrera.
 
-PAMIS está diseñada para ofrecer una solución integral que permita a la administración y al personal docente tomar decisiones informadas, basadas en datos, que mejoren la calidad educativa y optimicen los resultados académicos. Al integrar tecnologías modernas de análisis de datos y visualización interactiva, esta plataforma proporcionará a sus usuarios herramientas avanzadas para explorar y comprender patrones y tendencias en el rendimiento académico, facilitando así la implementación de estrategias educativas más efectivas.
+PAMIS está diseñada para ofrecer una solución integral que permita a los estudiantes tomar decisiones informadas, basadas en datos, que mejoren la calidad educativa y optimicen los resultados académicos. Al integrar tecnologías modernas de análisis de datos y visualización interactiva, esta plataforma proporcionará a sus usuarios herramientas avanzadas para explorar y comprender patrones y tendencias en el rendimiento académico, facilitando así la implementación de estrategias educativas más efectivas para cada curso y asegurar el mayor desempeño en cada uno.
 
 ### 1.1 Propósito
 
-El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a la Escuela Profesional de Ingeniería de Sistemas abordar varios desafíos relacionados con el análisis del desempeño académico de sus estudiantes. Estos desafíos incluyen la falta de acceso a herramientas analíticas detalladas, la necesidad de identificar patrones de rendimiento a lo largo del tiempo y la importancia de tomar decisiones estratégicas basadas en datos concretos.
+El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas abordar varios desafíos relacionados con el análisis del desempeño académico de sus compañeros. Estos desafíos incluyen la falta de acceso a herramientas analíticas detalladas, la necesidad de identificar patrones de rendimiento a lo largo del tiempo y la importancia de tomar decisiones estratégicas basadas en datos concretos.
 
 **Se incluye:**
 - Facilitar el Análisis Académico: Proporcionar una plataforma que permita a los usuarios analizar datos de matriculación y rendimiento académico de manera eficiente, identificando tendencias y patrones clave.
-- Mejorar la Toma de Decisiones: Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas, tanto para la administración como para los estudiantes.
+- Mejorar la Toma de Decisiones: Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas para los estudiantes.
 - Optimizar los Resultados Educativos: A través del análisis de datos y la identificación de áreas de mejora, ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación.
 
 ### 1.2 Alcance
 
 **Inclusiones:**
-- Desarrollo de una Plataforma Web:
-  - Creación de una interfaz de usuario intuitiva y accesible, diseñada para facilitar la exploración interactiva de datos académicos.
-  - Implementación de funcionalidades que permitan a los usuarios visualizar datos de matriculación, rendimiento académico y tasas de aprobación mediante gráficos y tablas detalladas.
+- **Desarrollo de una Aplicación en PowerBI:**
+  - Creación de un dashboard interactivo en PowerBI que facilite la exploración visual de los datos académicos.
+  - Implementación de funcionalidades que permitan a los usuarios visualizar datos de matriculación, rendimiento académico y tasas de aprobación mediante gráficos dinámicos y tablas detalladas en PowerBI.
 - **Funcionalidades Clave:**
-  - Análisis detallado de los datos de matrículas, rendimiento académico y otros indicadores clave.
-  - Generación de informes automatizados con recomendaciones basadas en análisis estadísticos.
-  - Exploración interactiva de los datos para identificar patrones y tendencias que puedan guiar la toma de decisiones.
+  - Análisis detallado de los datos de matrículas, rendimiento académico y otros indicadores clave dentro del entorno de PowerBI.
+  - Generación de informes automatizados y personalizados con recomendaciones basadas en análisis estadísticos, accesibles directamente en PowerBI.
+  - Exploración interactiva de los datos a través de visualizaciones en PowerBI para identificar patrones y tendencias que puedan guiar la toma de decisiones.
 - **Soporte Tecnológico:**
-  - Incorporación de tecnologías de análisis de datos y visualización interactiva.
-  - Mantenimiento y actualizaciones continuas de la plataforma, basadas en el feedback de los usuarios y las necesidades emergentes.
+  - Integración de capacidades avanzadas de análisis de datos y visualización en PowerBI para un rendimiento óptimo.
+  - Mantenimiento y actualizaciones continuas del dashboard en PowerBI, basadas en el feedback de los usuarios y las necesidades emergentes.
   
 **Exclusiones:**
 - Servicios Educativos Directos: PAMIS no proporcionará servicios educativos directos ni consultas académicas personalizadas.
@@ -132,14 +132,16 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
 - EPIS: Escuela profesional de ingeniería de sistemas.
 - Análisis de datos: Proceso de recopilación, limpieza, transformación y modelado de datos con el objetivo de descubrir patrones, tendencias y relaciones significativas.
 - Interfaz de usuario: Conjunto de elementos visuales y controles que permiten a un usuario interactuar con un software o aplicación. 
+
 ### 1.4 Referencias
 - Universidad Privada de Tacna. (2024, 26 agosto).  
  *https://www.upt.edu.pe/upt/web/index.php*
+
 ### 1.5 Visión General
 
-El proyecto PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) tiene como objetivo principal desarrollar una herramienta analítica que permita a la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna obtener una comprensión profunda del desempeño académico de sus estudiantes. Esta plataforma proporcionará un análisis detallado de datos de matrículas, rendimiento académico, tasas de aprobación y otros indicadores clave, facilitando la identificación de patrones y tendencias que puedan guiar la toma de decisiones estratégicas para mejorar la calidad educativa.
+El proyecto PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) tiene como objetivo principal desarrollar una herramienta analítica que permita a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna obtener una comprensión profunda del desempeño académico de los alumnos que la conforman. Esta plataforma proporcionará un análisis detallado de datos de matrículas, rendimiento académico, tasas de aprobación y otros indicadores clave, facilitando la identificación de patrones y tendencias que puedan guiar la toma de decisiones estratégicas para mejorar la calidad y desempeño educativo de los estudiantes.
 
-PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con una interfaz visual que permite a los usuarios explorar los datos de manera interactiva. La plataforma no solo permitirá la visualización clara de estos datos mediante gráficos y tablas, sino que también generará informes que ofrecerán recomendaciones basadas en análisis estadísticos. Estos informes ayudarán a los estudiantes y a la administración a tomar decisiones informadas sobre el proceso educativo, optimizando los resultados académicos y contribuyendo al éxito general de los programas de ingeniería.
+PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con una interfaz visual que permite a los usuarios explorar los datos de manera interactiva. La plataforma no solo permitirá la visualización clara de estos datos mediante gráficos y tablas, sino que también generará informes que ofrecerán recomendaciones basadas en análisis estadísticos. Estos informes ayudarán a los estudiantes a tomar decisiones informadas sobre el proceso educativo, optimizando los resultados académicos y contribuyendo al éxito general de los programas de ingeniería.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
