@@ -1,154 +1,120 @@
 <center>
 
-[comment]: <img src="./media/media/image1.png" style="width:1.088in;height:1.46256in" alt="escudo.png" />
+![logo-upt](./media/logo-upt.png)
 
-![./media/media/image1.png](./media/logo-upt.png)
+# UNIVERSIDAD PRIVADA DE TACNA  
+## FACULTAD DE INGENIERÍA  
+### Escuela Profesional de Ingeniería de Sistemas
 
-**UNIVERSIDAD PRIVADA DE TACNA**
+**Plataforma de análisis de datos de matriculados en la carrera de Ingeniería de Sistemas para la Universidad Privada de Tacna - PAMIS**
 
-**FACULTAD DE INGENIERIA**
-
-**Escuela Profesional de Ingeniería de Sistemas**
-
-***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
-
-Curso: *Inteligencia de Negocios*
-
+Curso: *Inteligencia de Negocios*  
 Docente: *Ing. Patrick Cuadros Quiroga*
 
-Integrantes:
+**Integrantes:**
 
+<p style="font-size: 13px;">
+Agreda Ramirez, Jesus Eduardo &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069823)  
+Castañeda Centurion, Jorge Enrique &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069822)  
+Contreras Lipa, Alvaro Javier &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- &emsp;  (2021070020)  
+Malaga Espinoza, Ivan Francisco &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021071086)  
+Ortiz Fernandez, Ximena Andrea &emsp;&emsp;&emsp;&emsp;&emsp;- &emsp;  (2021071080)
+</p>
 
-<p style="font-size: 13px;">Agreda Ramirez, Jesus Eduardo  &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069823)
-<br>Castañeda Centurion, Jorge Enrique &emsp; - &emsp; (2021069822)
-<br>Contreras Lipa Alvaro Javier &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; - &emsp;  (2021070020)
-<br>Malaga Espinoza, Ivan Francisco &emsp;&emsp;&ensp; - &emsp; (2021071086)
-<br>Ortiz Fernandez, Ximena Andrea &emsp;&emsp;&ensp; - &emsp;  (2021071080)</p>
-
-
-
-
-
-**Tacna – Perú**
-
+**Tacna – Perú**  
 ***2024***
-**  **
 
 </center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
-<br><br>
-
-***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
-
-**Documento de Visión**
-
-**Versión *{1.0}***
-**  **
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+# **Documento de Visión**
 
+**Versión 1.0**
+
+## **Control de Versiones**
+
+| Versión | Hecha por | Revisada por | Aprobada por | Fecha      | Motivo           |
+| :-----: | --------- | ------------ | ------------ | ---------- | ---------------- |
+| 1.0     | JAR       | ACL          | XOF          | 27/08/2024 | Versión Original |
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
+## **Índice General**
 
-**INDICE GENERAL**
-#
-[1.	Introducción](#_Toc52661346)
+1. [Introducción](#_Toc52661346)  
+   1.1 Propósito  
+   1.2 Alcance  
+   1.3 Definiciones, Siglas y Abreviaturas  
+   1.4 Referencias  
+   1.5 Visión General  
 
-1.1	Propósito
+2. [Posicionamiento](#_Toc52661347)  
+   2.1 Oportunidad de negocio  
+   2.2 Definición del problema  
 
-1.2	Alcance
+3. [Descripción de los interesados y usuarios](#_Toc52661348)  
+   3.1 Resumen de los interesados  
+   3.2 Resumen de los usuarios  
+   3.3 Entorno de usuario  
+   3.4 Perfiles de los interesados  
+   3.5 Perfiles de los Usuarios  
+   3.6 Necesidades de los interesados y usuarios  
 
-1.3	Definiciones, Siglas y Abreviaturas
+4. [Vista General del Producto](#_Toc52661349)  
+   4.1 Perspectiva del producto  
+   4.2 Resumen de capacidades  
+   4.3 Suposiciones y dependencias  
+   4.4 Costos y precios  
+   4.5 Licenciamiento e instalación  
 
-1.4	Referencias
+5. [Características del producto](#_Toc52661350)  
 
-1.5	Visión General
+6. [Restricciones](#_Toc52661351)  
 
-[2.	Posicionamiento](#_Toc52661347)
+7. [Rangos de calidad](#_Toc52661352)  
 
-2.1	Oportunidad de negocio
+8. [Precedencia y Prioridad](#_Toc52661353)  
 
-2.2	Definición del problema
+9. [Otros requerimientos del producto](#_Toc52661354)  
+   - Estándares legales  
+   - Estándares de comunicación  
+   - Estándares de cumplimiento de la plataforma  
+   - Estándares de calidad y seguridad  
 
-[3.	Descripción de los interesados y usuarios](#_Toc52661348)
+10. [Conclusiones](#_Toc52661355)  
 
-3.1	Resumen de los interesados
+11. [Recomendaciones](#_Toc52661356)  
 
-3.2	Resumen de los usuarios
+12. [Bibliografía](#_Toc52661357)  
 
-3.3	Entorno de usuario
+13. [Webgrafía](#_Toc52661358)  
 
-3.4	Perfiles de los interesados
-
-3.5	Perfiles de los Usuarios
-
-3.6	Necesidades de los interesados y usuarios
-
-[4.	Vista General del Producto](#_Toc52661349)
-
-4.1	Perspectiva del producto
-
-4.2	Resumen de capacidades
-
-4.3	Suposiciones y dependencias
-
-4.4	Costos y precios
-
-4.5	Licenciamiento e instalación
-
-[5.	Características del producto](#_Toc52661350)
-
-[6.	Restricciones](#_Toc52661351)
-
-[7.	Rangos de calidad](#_Toc52661352)
-
-[8.	Precedencia y Prioridad](#_Toc52661353)
-
-[9.	Otros requerimientos del producto](#_Toc52661354)
-
-b) Estandares legales
-
-c) Estandares de comunicación	](#_toc394513800)37
-
-d) Estandaraes de cumplimiento de la plataforma	](#_toc394513800)42
-
-e) Estandaraes de calidad y seguridad	](#_toc394513800)42
-
-[CONCLUSIONES](#_Toc52661355)
-
-[RECOMENDACIONES](#_Toc52661356)
-
-[BIBLIOGRAFIA](#_Toc52661357)
-
-[WEBGRAFIA](#_Toc52661358)
-
-****
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-**<u>Informe de Visión</u>**
+# **Informe de Visión**
 
-1. <span id="_Toc52661346" class="anchor"></span>**1. Introducción**
+## 1. Introducción
 
-1.1 Propósito
+En un entorno académico cada vez más complejo, donde el rendimiento estudiantil y la eficiencia de los programas educativos son fundamentales para el éxito de una institución, la capacidad de analizar y comprender datos detallados es crucial. La Plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) surge como una respuesta innovadora a la necesidad de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna de obtener una visión clara y profunda del desempeño académico de sus estudiantes.
 
-1.2 Alcance
+PAMIS está diseñada para ofrecer una solución integral que permita a la administración y al personal docente tomar decisiones informadas, basadas en datos, que mejoren la calidad educativa y optimicen los resultados académicos. Al integrar tecnologías modernas de análisis de datos y visualización interactiva, esta plataforma proporcionará a sus usuarios herramientas avanzadas para explorar y comprender patrones y tendencias en el rendimiento académico, facilitando así la implementación de estrategias educativas más efectivas.
 
-1.3 Definiciones, Siglas y Abreviaturas
+### 1.1 Propósito
 
-1.4 Referencias
 
-1.5 Visión General
+
+### 1.2 Alcance
+
+
+
+
+
+### 1.3 Definiciones, Siglas y Abreviaturas
+
+### 1.4 Referencias
+
+### 1.5 Visión General
 
 El proyecto PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) tiene como objetivo principal desarrollar una herramienta analítica que permita a la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna obtener una comprensión profunda del desempeño académico de sus estudiantes. Esta plataforma proporcionará un análisis detallado de datos de matrículas, rendimiento académico, tasas de aprobación y otros indicadores clave, facilitando la identificación de patrones y tendencias que puedan guiar la toma de decisiones estratégicas para mejorar la calidad educativa.
 
@@ -156,78 +122,95 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
+## 2. Posicionamiento
 
-2. <span id="_Toc52661347" class="anchor"></span>**Posicionamiento**
+### 2.1 Oportunidad de negocio
 
-    2.1	Oportunidad de negocio
-
-    2.2	Definición del problema
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-3. <span id="_Toc52661348" class="anchor"></span>**Vista General del Producto**
-
-    3.1	Resumen de los interesados
-
-    3.2	Resumen de los usuarios
-
-    3.3	Entorno de usuario
-
-    3.4	Perfiles de los interesados
-
-    3.5	Perfiles de los Usuarios
-
-    3.6	Necesidades de los interesados y usuarios
+### 2.2 Definición del problema
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
+## 3. Vista General del Producto
 
-    4.1	Perspectiva del producto
+### 3.1 Resumen de los interesados
 
-    4.2	Resumen de capacidades
+### 3.2 Resumen de los usuarios
 
-    4.3	Suposiciones y dependencias
+### 3.3 Entorno de usuario
 
-    4.4	Costos y precios
+### 3.4 Perfiles de los interesados
 
-    4.5	Licenciamiento e instalación
+### 3.5 Perfiles de los Usuarios
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-5. <span id="_Toc52661350" class="anchor"></span>**Características del producto**
+### 3.6 Necesidades de los interesados y usuarios
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-6. <span id="_Toc52661351" class="anchor"></span>**Restricciones**
+## 4. Estudio de Factibilidad
+
+### 4.1 Análisis de costos y beneficios
+
+### 4.2 Riesgos y viabilidad técnica
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-7. <span id="_Toc52661352" class="anchor"></span>**Rangos de Calidad**
+## 5. Alcance y objetivos del proyecto
+
+### 5.1 Objetivos específicos
+
+### 5.2 Requisitos funcionales
+
+### 5.3 Requisitos no funcionales
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-8. <span id="_Toc52661353" class="anchor"></span>**Precedencia y Prioridad**
+## 6. Plan de desarrollo
+
+### 6.1 Cronograma del proyecto
+
+### 6.2 Recursos necesarios
+
+### 6.3 Estrategia de implementación
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-9. <span id="_Toc52661354" class="anchor"></span>**Otros requerimientos del producto**
+## 7. Análisis de riesgos
+
+### 7.1 Identificación de riesgos
+
+### 7.2 Evaluación de riesgos
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661355" class="anchor"></span>**CONCLUSIONES**
+## 8. Plan de pruebas
+
+### 8.1 Estrategia de pruebas
+
+### 8.2 Casos de prueba
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661356" class="anchor"></span>**RECOMENDACIONES**
+## 9. Documentación del usuario
+
+### 9.1 Manual de usuario
+
+### 9.2 Guía rápida
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661357" class="anchor"></span>**BIBLIOGRAFIA**
+## 10. Plan de mantenimiento
+
+### 10.1 Estrategia de mantenimiento
+
+### 10.2 Plan de actualización
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661358" class="anchor"></span>**WEBGRAFIA**
+## 11. Conclusiones
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+## 12. Recomendaciones
+
+## 13. Bibliografía
+
+## 14. Webgrafía
+
