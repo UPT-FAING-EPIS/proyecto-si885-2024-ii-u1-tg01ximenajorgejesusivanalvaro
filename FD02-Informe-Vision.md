@@ -127,7 +127,11 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
 - Soporte Legal o Administrativo: La plataforma no ofrecerá asistencia legal ni soporte administrativo más allá del análisis de datos académicos.
 
 ### 1.3 Definiciones, Siglas y Abreviaturas
-
+- PAMIS: Plataforma de Análisis de Matriculados en Ingeniería de Sistemas.
+- UPT: Universidad Privada de Tacna.
+- EPIS: Escuela profesional de ingeniería de sistemas.
+- Análisis de datos: Proceso de recopilación, limpieza, transformación y modelado de datos con el objetivo de descubrir patrones, tendencias y relaciones significativas.
+- Interfaz de usuario: Conjunto de elementos visuales y controles que permiten a un usuario interactuar con un software o aplicación. 
 ### 1.4 Referencias
 
 ### 1.5 Visión General
