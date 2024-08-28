@@ -85,17 +85,27 @@ Versión *{1.0}*
 
     1.1. Nombre del proyecto
 
+        Plataforma de Análisis de Matriculados en Ingeniería de Sistemas.
+
     1.2. Duración del proyecto
+        
+        La duración del proyecto abarcará todo el ciclo académico, concluyendo en la segunda semana de diciembre.
 
     1.3. Descripción
-
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
+        
+        La plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) es la solución propuesta ante la situación de la exigencia del rendimiento estudiantil y la eficiencia de los programas educativos, situándose en un entorno académico cada vez más complejo, pues es de vital importancia el análisis y comprensión de datos detalladamente. PAMIS permite la toma de decisiones informadas basadas en datos reales, de esta forma se optimizan los resultados académicos y se mejora la calidad educativa de la universidad, siendo una gran ayuda para la administración y el cuerpo docente.
 
     1.4. Objetivos
 
         1.4.1 Objetivo general
+            Proporcionar una plataforma tecnológica que permita a los estudiantes ya la Escuela Profesional de Ingeniería de Sistemas analizar el desempeño académico de manera eficiente, facilitando la toma de decisiones estratégicas basadas en datos concretos y óptimos.
+
         1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
+            Facilitar el análisis académico mediante una plataforma que permita a los usuarios examinar datos de matriculación y rendimiento académico, identificando tendencias y patrones.
+
+            Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas para los estudiantes.
+
+            Ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación, esto mediante el análisis de datos y la identificación de áreas de mejora.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
