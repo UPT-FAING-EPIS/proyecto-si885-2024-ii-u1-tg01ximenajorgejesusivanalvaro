@@ -111,7 +111,15 @@ Versión *{1.0}*
 
 2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
+        Fallas técnicas: Problemas con la infraestructura tecnológica, como servidores, bases de datos o integraciones de software, que podrían afectar la disponibilidad y el rendimiento de la plataforma.
+
+        Corto tiempo para el desarrollo del proyecto: Significa que el plazo asignado para completar el desarrollo es demasiado corto para alcanzar los estándares de calidad y funcionalidad deseados. Esto podría generar presión excesiva en el equipo de desarrollo, lo que podría resultar en un producto final deficiente.
+
+        Disponibilidad limitada del personal: Se refiere a la posibilidad de que algunos miembros del equipo no estén disponibles debido a conflictos de horario, enfermedades, renuncias inesperadas u otros compromisos. La falta de personal puede provocar retrasos en el desarrollo, aumentar la carga de trabajo del resto del equipo y afectar la calidad del producto final.
+
+        Sobrecarga de datos: Se refiere a la acumulación de grandes volúmenes de datos sin una estrategia clara para su manejo puede ralentizar el sistema y dificultar el análisis eficaz.
+
+        Seguridad de datos: Significa las vulnerabilidades en la protección de datos personales y académicos, lo que podría resultar en brechas de seguridad y pérdida de confianza por parte de los usuarios.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
