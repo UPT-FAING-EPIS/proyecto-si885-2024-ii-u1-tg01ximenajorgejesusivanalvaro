@@ -1,23 +1,17 @@
 <center>
 
-[comment]: <img src="./media/media/image1.png" style="width:1.088in;height:1.46256in" alt="escudo.png" />
+![logo-upt](./media/logo-upt.png)
 
-![./media/media/image1.png](./media/logo-upt.png)
+# UNIVERSIDAD PRIVADA DE TACNA  
+## FACULTAD DE INGENIERÍA  
+### Escuela Profesional de Ingeniería de Sistemas
 
-**UNIVERSIDAD PRIVADA DE TACNA**
+**Plataforma de análisis de datos de matriculados en la carrera de Ingeniería de Sistemas para la Universidad Privada de Tacna - PAMIS**
 
-**FACULTAD DE INGENIERIA**
+Curso: *Inteligencia de Negocios*  
+Docente: *Mag. Patrick Cuadros Quiroga*
 
-**Escuela Profesional de Ingeniería de Sistemas**
-
-***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
-
-Curso: *Inteligencia de Negocios*
-
-Docente: *Ing. Patrick Cuadros Quiroga*
-
-Integrantes:
-
+**Integrantes:**
 
 <p style="font-size: 13px;">Agreda Ramirez, Jesus Eduardo  &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069823)
 <br>Castañeda Centurion, Jorge Enrique &emsp; - &emsp; (2021069822)
@@ -25,209 +19,367 @@ Integrantes:
 <br>Malaga Espinoza, Ivan Francisco &emsp;&emsp;&ensp; - &emsp; (2021071086)
 <br>Ortiz Fernandez, Ximena Andrea &emsp;&emsp;&ensp; - &emsp;  (2021071080)</p>
 
-
-
-
-
-**Tacna – Perú**
-
+**Tacna – Perú**  
 ***2024***
-**  **
 
 </center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
-<br><br>
-
-***Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS***
-
-**Documento de Visión**
-
-**Versión *{1.0}***
-**  **
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+# **Documento de Visión**
+
+**Versión 1.0**
+
+## **Control de Versiones**
+
+| Versión | Hecha por | Revisada por | Aprobada por | Fecha      | Motivo           |
+| :-----: | --------- | ------------ | ------------ | ---------- | ---------------- |
+| 1.0     | JAR       | ACL          | XOF          | 27/08/2024 | Versión Original |
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
+## **Índice General**
+
+1. [Introducción](#_Toc52661346)  
+   1.1 Propósito  
+   1.2 Alcance  
+   1.3 Definiciones, Siglas y Abreviaturas  
+   1.4 Referencias  
+   1.5 Visión General  
+
+2. [Posicionamiento](#_Toc52661347)  
+   2.1 Oportunidad de negocio  
+   2.2 Definición del problema  
+
+3. [Descripción de los interesados y usuarios](#_Toc52661348)  
+   3.1 Resumen de los interesados  
+   3.2 Resumen de los usuarios  
+   3.3 Entorno de usuario  
+   3.4 Perfiles de los interesados  
+   3.5 Perfiles de los Usuarios  
+   3.6 Necesidades de los interesados y usuarios  
+
+4. [Vista General del Producto](#_Toc52661349)  
+   4.1 Perspectiva del producto  
+   4.2 Resumen de capacidades  
+   4.3 Suposiciones y dependencias  
+   4.4 Costos y precios  
+   4.5 Licenciamiento e instalación  
+
+5. [Características del producto](#_Toc52661350)  
+
+6. [Restricciones](#_Toc52661351)  
+
+7. [Rangos de calidad](#_Toc52661352)  
+
+8. [Precedencia y Prioridad](#_Toc52661353)  
+
+9. [Otros requerimientos del producto](#_Toc52661354)  
+   - Estándares legales  
+   - Estándares de comunicación  
+   - Estándares de cumplimiento de la plataforma  
+   - Estándares de calidad y seguridad  
+
+10. [Conclusiones](#_Toc52661355)  
+
+11. [Recomendaciones](#_Toc52661356)  
+
+12. [Bibliografía](#_Toc52661357)  
+
+13. [Webgrafía](#_Toc52661358)  
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
+# **Informe de Visión**
+
+## 1. Introducción
+
+<p style="text-align: justify;">
+    En un entorno académico cada vez más complejo, donde el rendimiento estudiantil y la eficiencia de los programas educativos son fundamentales para el éxito de una institución, la capacidad de analizar y comprender datos detallados es crucial. La Plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) surge como una respuesta innovadora a la necesidad de los actuales y futuros estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna de obtener una visión clara y profunda del desempeño académico que presenta la carrera.
+</p>
+
+<p style="text-align: justify;">
+    PAMIS está diseñada para ofrecer una solución integral que permita a los estudiantes tomar decisiones informadas, basadas 
+    en datos, que mejoren la calidad educativa y optimicen los resultados académicos. Al integrar tecnologías modernas de 
+    análisis de datos y visualización interactiva, esta plataforma proporcionará a sus usuarios herramientas avanzadas para 
+    explorar y comprender patrones y tendencias en el rendimiento académico, facilitando así la implementación de estrategias 
+    educativas más efectivas para cada curso y asegurar el mayor desempeño en cada uno.
+</p>
+
+
+### 1.1 Propósito
+
+<p style="text-align: justify;">
+El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas abordar varios desafíos relacionados con el análisis del desempeño académico de sus compañeros. Estos desafíos incluyen la falta de acceso a herramientas analíticas detalladas, la necesidad de identificar patrones de rendimiento a lo largo del tiempo y la importancia de tomar decisiones estratégicas basadas en datos concretos.
+</p>
+
+**Se incluye:**
+<p style="text-align: justify;">
+- <u>Facilitar el Análisis Académico:</u> Proporcionar una plataforma que permita a los usuarios analizar datos de matriculación y rendimiento académico de manera eficiente, identificando tendencias y patrones clave.</p>
+
+
+<p style="text-align: justify;">
+- <u>Mejorar la Toma de Decisiones:</u> Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas para los estudiantes.</p>
+
+
+<p style="text-align: justify;">
+- <u>Optimizar los Resultados Educativos:</u> A través del análisis de datos y la identificación de áreas de mejora, ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación.</p>
+
+
+### 1.2 Alcance
+
+<u>Inclusiones:</u>
+- **Desarrollo de una Aplicación en PowerBI:**
+  - Creación de un dashboard interactivo en PowerBI que facilite la exploración visual de los datos académicos.
+  - Implementación de funcionalidades que permitan a los usuarios visualizar datos de matriculación, rendimiento académico y tasas de aprobación mediante gráficos dinámicos y tablas detalladas en PowerBI.
+- **Funcionalidades Clave:**
+  - Análisis detallado de los datos de matrículas, rendimiento académico y otros indicadores clave dentro del entorno de PowerBI.
+  - Generación de informes automatizados y personalizados con recomendaciones basadas en análisis estadísticos, accesibles directamente en PowerBI.
+  - Exploración interactiva de los datos a través de visualizaciones en PowerBI para identificar patrones y tendencias que puedan guiar la toma de decisiones.
+- **Soporte Tecnológico:**
+  - Integración de capacidades avanzadas de análisis de datos y visualización en PowerBI para un rendimiento óptimo.
+  - Mantenimiento y actualizaciones continuas del dashboard en PowerBI, basadas en el feedback de los usuarios y las necesidades emergentes.
+  
+<u>Exclusiones:</u>
+- Servicios Educativos Directos: PAMIS no proporcionará servicios educativos directos ni consultas académicas personalizadas.
+- Gestión de Otros Programas Académicos: El enfoque estará limitado a la Ingeniería de Sistemas, y no se incluirá la gestión de otros programas académicos.
+- Soporte Legal o Administrativo: La plataforma no ofrecerá asistencia legal ni soporte administrativo más allá del análisis de datos académicos.
+- Soporte para Dispositivos Móviles: PAMIS no ofrecerá soporte ni optimización para dispositivos móviles, enfocándose únicamente en entornos de escritorio a través de PowerBI.
+
+### 1.3 Definiciones, Siglas y Abreviaturas
+- PAMIS: Plataforma de Análisis de Matriculados en Ingeniería de Sistemas.
+- UPT: Universidad Privada de Tacna.
+- EPIS: Escuela profesional de ingeniería de sistemas.
+- Análisis de datos: Proceso de recopilación, limpieza, transformación y modelado de datos con el objetivo de descubrir patrones, tendencias y relaciones significativas.
+- Interfaz de usuario: Conjunto de elementos visuales y controles que permiten a un usuario interactuar con un software o aplicación. 
+
+### 1.4 Referencias
+- Universidad Privada de Tacna. (2024, 26 agosto).  
+ *https://www.upt.edu.pe/upt/web/index.php*
+
+### 1.5 Visión General
+<p style="text-align: justify;">
+El proyecto PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) tiene como objetivo principal desarrollar una herramienta analítica que permita a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna obtener una comprensión profunda del desempeño académico de los alumnos que la conforman. Esta plataforma proporcionará un análisis detallado de datos de matrículas, rendimiento académico, tasas de aprobación y otros indicadores clave, facilitando la identificación de patrones y tendencias que puedan guiar la toma de decisiones estratégicas para mejorar la calidad y desempeño educativo de los estudiantes.
+</p>
+
+
+<p style="text-align: justify;">
+PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con una interfaz visual que permite a los usuarios explorar los datos de manera interactiva. La plataforma no solo permitirá la visualización clara de estos datos mediante gráficos y tablas, sino que también generará informes que ofrecerán recomendaciones basadas en análisis estadísticos. Estos informes ayudarán a los estudiantes a tomar decisiones informadas sobre el proceso educativo, optimizando los resultados académicos y contribuyendo al éxito general de los programas de ingeniería.
+</p>
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
+## 2. Posicionamiento
+
+### 2.1 Oportunidad de negocio
+
+
+* **La creciente demanda por análisis de datos en la educación superior:** 
+<p style="text-align: justify;">
+Las instituciones educativas buscan cada vez más herramientas para tomar decisiones basadas en datos y mejorar la calidad de la enseñanza.
+ </p>
+
+* **La necesidad de personalizar la experiencia educativa:**
+<p style="text-align: justify;">
+PAMIS puede ayudar a identificar las necesidades individuales de los estudiantes.
+</p>
+
+* **La importancia de la toma de decisiones basadas en datos:**
+<p style="text-align: justify;">
+ Al proporcionar información precisa y oportuna, PAMIS puede ayudar a los tomadores de decisiones a identificar tendencias, predecir resultados y optimizar los recursos.
+ </p>
+
+
+### 2.2 Definición del problema
+
+* **Falta de herramientas analíticas:**
+<p style="text-align: justify;">
+ Las instituciones educativas suelen carecer de herramientas especializadas para analizar grandes volúmenes de datos académicos de manera eficiente.
+</p>
+
+* **Dificultad para identificar patrones y tendencias:**
+<p style="text-align: justify;">
+La identificación de patrones y tendencias en los datos académicos puede ser compleja y requiere de habilidades estadísticas avanzadas.
+</p>
+
+
+* **Toma de decisiones basada en intuición:** 
+<p style="text-align: justify;">
+En muchos casos, las decisiones relacionadas con la educación se toman en base a la experiencia y la intuición, en lugar de datos objetivos.
+</p>
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
+## 3. Descripción de los interesados y usuarios
 
-**INDICE GENERAL**
-#
-[1.	Introducción](#_Toc52661346)
+### 3.1 Resumen de los interesados
+<p style="text-align: justify;">
+    <strong>- Administradores universitarios:</strong> Directores de escuela, coordinadores de carrera.
+</p>
+<p style="text-align: justify;">
+    <strong>- Docentes:</strong> Profesores de la Escuela Profesional de Ingeniería de Sistemas.
+</p>
+<p style="text-align: justify;">
+    <strong>- Estudiantes:</strong> Alumnos de la carrera de Ingeniería de Sistemas.
+</p>
 
-1.1	Propósito
+### 3.2 Resumen de los usuarios
+<p style="text-align: justify;">
+    <strong>- Primarios:</strong> Estudiantes de Ingeniería de Sistemas.
+</p>
+<p style="text-align: justify;">
+    <strong>- Secundarios:</strong> Docentes y administradores.
+</p>
 
-1.2	Alcance
+### 3.3 Entorno de usuario
 
-1.3	Definiciones, Siglas y Abreviaturas
+- **Plataforma en Línea:**
+<p style="text-align: justify;">
+Los usuarios acceden a PAMIS a través de una plataforma en línea. Esto significa que el entorno de usuario se basa en una interfaz web intuitiva que permite la navegación, consulta y análisis de datos académicos, creación de reportes, y visualización de estadísticas de rendimiento académico. Además, los usuarios pueden personalizar su experiencia para centrarse en las áreas que más les interesan, como el seguimiento de su propio progreso o el análisis comparativo de rendimiento.
 
-1.4	Referencias
+- **Acceso a Internet:**
+<p style="text-align: justify;">
+Dado que PAMIS es una plataforma basada en la web, los usuarios requieren un acceso estable y confiable a Internet para utilizarla eficazmente. Esto asegura que los estudiantes, docentes y administradores puedan interactuar con la plataforma desde cualquier ubicación, utilizando dispositivos inteligentes como computadoras, tabletas o teléfonos móviles, facilitando así el acceso a la información en cualquier momento y lugar.
+</p>
 
-1.5	Visión General
 
-[2.	Posicionamiento](#_Toc52661347)
+### 3.4 Perfiles de los interesados
+<p style="text-align: justify;">
+    <strong>- Administradores universitarios:</strong> Buscan optimizar recursos, mejorar la calidad educativa y tomar decisiones estratégicas.
+</p>
+<p style="text-align: justify;">
+    <strong>- Docentes:</strong> Desean mejorar el rendimiento de sus estudiantes y adaptar sus métodos de enseñanza.
+</p>
+<p style="text-align: justify;">
+    <strong>- Estudiantes:</strong> Quieren comprender su propio progreso, identificar áreas de mejora y tomar decisiones sobre su futuro académico.
+</p>
 
-2.1	Oportunidad de negocio
+### 3.5 Perfiles de los Usuarios
+<p style="text-align: justify;">
+    <strong>- Estudiantes:</strong> Diferentes niveles de conocimiento tecnológico, interés en el análisis de datos, motivación por mejorar su desempeño académico.
+</p>
 
-2.2	Definición del problema
-
-[3.	Descripción de los interesados y usuarios](#_Toc52661348)
-
-3.1	Resumen de los interesados
-
-3.2	Resumen de los usuarios
-
-3.3	Entorno de usuario
-
-3.4	Perfiles de los interesados
-
-3.5	Perfiles de los Usuarios
-
-3.6	Necesidades de los interesados y usuarios
-
-[4.	Vista General del Producto](#_Toc52661349)
-
-4.1	Perspectiva del producto
-
-4.2	Resumen de capacidades
-
-4.3	Suposiciones y dependencias
-
-4.4	Costos y precios
-
-4.5	Licenciamiento e instalación
-
-[5.	Características del producto](#_Toc52661350)
-
-[6.	Restricciones](#_Toc52661351)
-
-[7.	Rangos de calidad](#_Toc52661352)
-
-[8.	Precedencia y Prioridad](#_Toc52661353)
-
-[9.	Otros requerimientos del producto](#_Toc52661354)
-
-b) Estandares legales
-
-c) Estandares de comunicación	](#_toc394513800)37
-
-d) Estandaraes de cumplimiento de la plataforma	](#_toc394513800)42
-
-e) Estandaraes de calidad y seguridad	](#_toc394513800)42
-
-[CONCLUSIONES](#_Toc52661355)
-
-[RECOMENDACIONES](#_Toc52661356)
-
-[BIBLIOGRAFIA](#_Toc52661357)
-
-[WEBGRAFIA](#_Toc52661358)
-
-****
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-**<u>Informe de Visión</u>**
-
-1. <span id="_Toc52661346" class="anchor"></span>**1. Introducción**
-
-1.1 Propósito
-
-1.2 Alcance
-
-1.3 Definiciones, Siglas y Abreviaturas
-
-1.4 Referencias
-
-1.5 Visión General
-
-El proyecto PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) tiene como objetivo principal desarrollar una herramienta analítica que permita a la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna obtener una comprensión profunda del desempeño académico de sus estudiantes. Esta plataforma proporcionará un análisis detallado de datos de matrículas, rendimiento académico, tasas de aprobación y otros indicadores clave, facilitando la identificación de patrones y tendencias que puedan guiar la toma de decisiones estratégicas para mejorar la calidad educativa.
-
-PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con una interfaz visual que permite a los usuarios explorar los datos de manera interactiva. La plataforma no solo permitirá la visualización clara de estos datos mediante gráficos y tablas, sino que también generará informes que ofrecerán recomendaciones basadas en análisis estadísticos. Estos informes ayudarán a los estudiantes y a la administración a tomar decisiones informadas sobre el proceso educativo, optimizando los resultados académicos y contribuyendo al éxito general de los programas de ingeniería.
+### 3.6 Necesidades de los interesados y usuarios
+<p style="text-align: justify;">
+    <strong>- Administradores:</strong>
+</p>
+<ul style="text-align: justify;">
+    <li>Visualizar el rendimiento académico global de la carrera.</li>
+    <li>Identificar áreas de mejora en los programas de estudio.</li>
+    <li>Tomar decisiones informadas sobre la asignación de recursos.</li>
+</ul>
+<p style="text-align: justify;">
+    <strong>- Docentes:</strong>
+</p>
+<ul style="text-align: justify;">
+    <li>Monitorear el progreso de sus estudiantes.</li>
+    <li>Identificar los conceptos que los estudiantes tienen dificultades para comprender.</li>
+    <li>Personalizar sus métodos de enseñanza.</li>
+</ul>
+<p style="text-align: justify;">
+    <strong>- Estudiantes:</strong>
+</p>
+<ul style="text-align: justify;">
+    <li>Comprender su propio rendimiento en comparación con sus compañeros.</li>
+    <li>Identificar las áreas en las que necesitan mejorar.</li>
+</ul>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
+## 4. Vista General del Producto
 
-2. <span id="_Toc52661347" class="anchor"></span>**Posicionamiento**
+### 4.1 Perspectiva del producto
+<p style="text-align: justify;">
+PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) será una herramienta analítica desplegada en PowerBI, diseñada para proporcionar a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna un análisis detallado de su rendimiento académico. La plataforma busca facilitar la comprensión de patrones y tendencias que permitan una toma de decisiones informada y mejorar el desempeño académico.
+</p>
 
-    2.1	Oportunidad de negocio
+### 4.2 Resumen de capacidades
+<p>PAMIS proporcionará:</p>
+<ul style="text-align: justify;">
+    <li><strong>Dashboard interactivo:</strong> Una interfaz principal que permitirá a los estudiantes visualizar de manera rápida y comprensible los principales indicadores de su rendimiento académico.</li>
+    <li><strong>Cinco reportes detallados:</strong> Cada reporte se enfocará en aspectos clave del desempeño académico, tomando en cuenta los objetivos estratégicos del proyecto. Los reportes incluirán:
+    <ol><li>Análisis de matrículas: Datos sobre las tasas de matriculación y su evolución a lo largo del tiempo.</li><li>Desempeño académico por curso: Visualización de las tasas de aprobación y notas máximas y mínimas por curso.</li><li>Análisis comparativo entre cohortes: Comparaciones de rendimiento entre diferentes generaciones de estudiantes.</li><li>Identificación de áreas críticas: Detección de cursos o áreas con alto índice de desaprobación.
+</li><li>Análisis de matriculados por docente: Matriculados por docente y la probabilidad de aprobar o desaprobar con él.</li>
+    </ol></li>
+    <li><strong>Interactividad avanzada:</strong> Posibilidad de filtrar y segmentar los datos en función de criterios específicos (como curso, semestre, o año académico).
+    </li>
+    <li><strong>Exportación de reportes:</strong> Los usuarios podrán exportar los reportes en formatos accesibles, como PDF o Excel, para su análisis posterior.</li>
+</ul>
 
-    2.2	Definición del problema
+### 4.3 Suposiciones y dependencias
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+<ul style="text-align: justify;">
+    <li>Disponibilidad de datos precisos y actualizados: El éxito de la plataforma dependerá de la calidad y precisión de los datos ingresados en el sistema.</li>
+    <li>Apoyo institucional: Se asume que la institución proporcionará el apoyo necesario para la implementación y el mantenimiento de la plataforma, incluyendo acceso a la base de datos y retroalimentación continua.</li>
+    <li> Limitaciones del software: Como la aplicación se basa en PowerBI, algunas funcionalidades avanzadas pueden estar limitadas por las capacidades inherentes de la plataforma.
+ </li>
+    <li> Modificaciones en los requerimientos de la plataforma: Referido a la posibilidad de que los requisitos y especificaciones de la plataforma cambien durante el proceso de desarrollo. Las modificaciones repentinas pueden afectar la planificación, el diseño y la implementación del proyecto, lo que potencialmente conduce a retrasos, confusiones y aumentos en los costos. </li>
+</ul>
 
-3. <span id="_Toc52661348" class="anchor"></span>**Vista General del Producto**
+### 4.4 Costos y precios
 
-    3.1	Resumen de los interesados
-
-    3.2	Resumen de los usuarios
-
-    3.3	Entorno de usuario
-
-    3.4	Perfiles de los interesados
-
-    3.5	Perfiles de los Usuarios
-
-    3.6	Necesidades de los interesados y usuarios
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
-
-    4.1	Perspectiva del producto
-
-    4.2	Resumen de capacidades
-
-    4.3	Suposiciones y dependencias
-
-    4.4	Costos y precios
-
-    4.5	Licenciamiento e instalación
+### 4.5 Licenciamiento e instalación 
+<p style="text-align: justify;">PAMIS será accesible a través de PowerBI como una plataforma web, lo que permitirá a los usuarios acceder a los dashboards y reportes sin necesidad de realizar una instalación local. Sin embargo, será necesario que los usuarios acepten los términos y condiciones de uso de PowerBI, así como cumplir con los requisitos de licencia de la herramienta para utilizar las funcionalidades completas del sistema en la web.</p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-5. <span id="_Toc52661350" class="anchor"></span>**Características del producto**
+## 5. Alcance y objetivos del proyecto
+
+### 5.1 Objetivos específicos
+
+### 5.2 Requisitos funcionales
+
+### 5.3 Requisitos no funcionales
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-6. <span id="_Toc52661351" class="anchor"></span>**Restricciones**
+## 6. Plan de desarrollo
+
+### 6.1 Cronograma del proyecto
+
+### 6.2 Recursos necesarios
+
+### 6.3 Estrategia de implementación
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-7. <span id="_Toc52661352" class="anchor"></span>**Rangos de Calidad**
+## 7. Análisis de riesgos
+
+### 7.1 Identificación de riesgos
+
+### 7.2 Evaluación de riesgos
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-8. <span id="_Toc52661353" class="anchor"></span>**Precedencia y Prioridad**
+## 8. Plan de pruebas
+
+### 8.1 Estrategia de pruebas
+
+### 8.2 Casos de prueba
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-9. <span id="_Toc52661354" class="anchor"></span>**Otros requerimientos del producto**
+## 9. Documentación del usuario
+
+### 9.1 Manual de usuario
+
+### 9.2 Guía rápida
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661355" class="anchor"></span>**CONCLUSIONES**
+## 10. Plan de mantenimiento
+
+### 10.1 Estrategia de mantenimiento
+
+### 10.2 Plan de actualización
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-<span id="_Toc52661356" class="anchor"></span>**RECOMENDACIONES**
+## 11. Conclusiones
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+## 12. Recomendaciones
 
-<span id="_Toc52661357" class="anchor"></span>**BIBLIOGRAFIA**
+## 13. Bibliografía
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+## 14. Webgrafía
 
-<span id="_Toc52661358" class="anchor"></span>**WEBGRAFIA**
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>

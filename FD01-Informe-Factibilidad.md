@@ -107,7 +107,6 @@ Versión *{1.0}*
 
             Ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación, esto mediante el análisis de datos y la identificación de áreas de mejora.
 
-
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
@@ -121,7 +120,6 @@ Versión *{1.0}*
         Sobrecarga de datos: Se refiere a la acumulación de grandes volúmenes de datos sin una estrategia clara para su manejo puede ralentizar el sistema y dificultar el análisis eficaz.
 
         Seguridad de datos: Significa las vulnerabilidades en la protección de datos personales y académicos, lo que podría resultar en brechas de seguridad y pérdida de confianza por parte de los usuarios.
-
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
