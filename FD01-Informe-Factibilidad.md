@@ -173,60 +173,97 @@ Se usará para crear informes y gráficos interactivos, y dashboard; integrando 
 
 <h2 id="_Toc52661349">4. Estudio de Factibilidad</h2>
 
-### 4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
+### 4.1. Factibilidad Técnica
 
 
 
-### 4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
+### 4.2. Factibilidad Económica
 
 Se definieron los siguientes costos:
 
-4.2.1. Costos Generales
+#### 4.2.1. Costos Generales
 
-Tabla 01: En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00, véase la carpeta "media".
+![costos-generales](./media/costos-generales.png)
+
+<center>
+<strong>Tabla 01:</strong> En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00
+</center>
+<br>
 
 4.2.2. Costos operativos durante el desarrollo 
-        
-Tabla 02: En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00, véase la carpeta "media".
+
+![costos-operativos](./media/costos-operativos.png)
+
+<center>
+<strong>Tabla 02:</strong> En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00
+</center>
+<br>
 
 4.2.3. Costos del ambiente
 
-Tabla 03: En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00, véase la carpeta "media".
+![costos-ambientales](./media/costos-ambientales.png)
+
+<center>
+<strong>Tabla 03:</strong> En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00
+</center>
+<br>
 
 4.2.4. Costos de personal
 
-Tabla 04: El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00, véase la carpeta "media".
+![costos-personal](./media/costos-personal.png)
+
+<center>
+<strong>Tabla 04:</strong> El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00
+</center>
+<br>
 
 4.2.5.  Costos totales del desarrollo del sistema
 
-Tabla 05: En Costos Totales se resume los subtotales de los costos generales, operativos, de personal y del ambiente, llegando a un total acumulado de S/ 27,180.00, véase la carpeta "media".
+![costos-totales](./media/costos-totales.png)
 
-### 4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
+<center>
+<strong>Tabla 05:</strong> En Costos Totales se resume los subtotales de los costos generales, operativos, de personal y del ambiente, llegando a un total acumulado de S/ 27,180.00
+</center>
+<br>
 
-Beneficios del Producto: El proyecto PAMIS proporcionará una plataforma analítica que permite a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna acceder a estadísticas detalladas sobre los cursos. Esto mejorará la toma de decisiones académicas, optimizará el rendimiento estudiantil y proporcionará una experiencia educativa más personalizada. Además, al centralizar la información, se facilitará la planificación académica y se reducirá la carga administrativa asociada con la consulta y manejo de datos.
-        
-Impacto en los Usuarios: Los estudiantes se beneficiarán al poder acceder a datos precisos y personalizados sobre su rendimiento académico. Esto les permitirá tomar decisiones más informadas sobre su trayectoria educativa, lo que puede resultar en un mejor rendimiento académico y una planificación más efectiva.
+### 4.3. Factibilidad Operativa
 
+- **Beneficios del Producto:**<p style="text-align: justify;"> El proyecto PAMIS proporcionará una plataforma analítica que permite a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna acceder a estadísticas detalladas sobre los cursos. Esto mejorará la toma de decisiones académicas, optimizará el rendimiento estudiantil y proporcionará una experiencia educativa más personalizada. Además, al centralizar la información, se facilitará la planificación académica y se reducirá la carga administrativa asociada con la consulta y manejo de datos.
+</p>  
 
-### 4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
+- **Impacto en los Usuarios:**<p style="text-align: justify;"> Los estudiantes se beneficiarán al poder acceder a datos precisos y personalizados sobre su rendimiento académico. Esto les permitirá tomar decisiones más informadas sobre su trayectoria educativa, lo que puede resultar en un mejor rendimiento académico y una planificación más efectiva.
+</p>
 
-Cumplimiento con Regulaciones de Protección de Datos: El proyecto PAMIS deberá cumplir con las normativas vigentes de protección de datos personales, como la Ley N° 29733, Ley de Protección de Datos Personales del Perú. Esta ley regula el tratamiento de datos personales para garantizar la privacidad de la información de los estudiantes. La plataforma deberá implementar medidas de seguridad que protejan los datos académicos y personales de los estudiantes para evitar cualquier tipo de vulnerabilidad o brecha de seguridad.
+### 4.4. Factibilidad Legal
 
-Leyes de Propiedad Intelectual: La plataforma debe respetar las leyes de propiedad intelectual, asegurando que cualquier software, código o tecnología utilizada cuente con las licencias correspondientes. Esto incluye el uso de herramientas de software como Visual Studio Code y Power BI, las cuales tienen términos de uso que deben ser cumplidos.
+- **Cumplimiento con Regulaciones de Protección de Datos:**<p style="text-align: justify;">  El proyecto PAMIS deberá cumplir con las normativas vigentes de protección de datos personales, como la Ley N° 29733, Ley de Protección de Datos Personales del Perú. Esta ley regula el tratamiento de datos personales para garantizar la privacidad de la información de los estudiantes. La plataforma deberá implementar medidas de seguridad que protejan los datos académicos y personales de los estudiantes para evitar cualquier tipo de vulnerabilidad o brecha de seguridad.
+</p>
 
-Normativas internas de la Universidad: Dado que el proyecto manejará información académica y administrativa de la Universidad Privada de Tacna, es crucial que todas las actividades de desarrollo y operación del sistema se alineen estrictamente con las normativas internas de la universidad. Esto incluye cumplir con las políticas de privacidad, seguridad de la información y cualquier otra regulación interna que rija el manejo y protección de los datos universitarios.
+- **Leyes de Propiedad Intelectual:**<p style="text-align: justify;">  La plataforma debe respetar las leyes de propiedad intelectual, asegurando que cualquier software, código o tecnología utilizada cuente con las licencias correspondientes. Esto incluye el uso de herramientas de software como Visual Studio Code y Power BI, las cuales tienen términos de uso que deben ser cumplidos.
+</p>
 
-### 4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
+- **Normativas internas de la Universidad:**<p style="text-align: justify;">  Dado que el proyecto manejará información académica y administrativa de la Universidad Privada de Tacna, es crucial que todas las actividades de desarrollo y operación del sistema se alineen estrictamente con las normativas internas de la universidad. Esto incluye cumplir con las políticas de privacidad, seguridad de la información y cualquier otra regulación interna que rija el manejo y protección de los datos universitarios.
+</p>
 
+### 4.5. Factibilidad Social 
+
+<p style="text-align: justify;"> 
 El proyecto PAMIS se alinea con los valores y códigos de conducta de la UPT y del entorno social en el que opera. Al proporcionar a los estudiantes una herramienta que les permita tomar decisiones académicas informadas, el proyecto contribuirá al desarrollo académico y personal de los estudiantes, promoviendo una cultura de mejora continua y éxito académico.
-        
+</p>
+
+<p style="text-align: justify;"> 
 Además, al enfocarse en la personalización de la experiencia educativa, el proyecto responde a las necesidades y expectativas sociales actuales de acceso a la información y toma de decisiones basadas en datos.
+</p>
 
-### 4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
+### 4.6. Factibilidad Ambiental
 
+<p style="text-align: justify;"> 
 Desde una perspectiva ambiental, el proyecto PAMIS tendrá un impacto mínimo en el medio ambiente, ya que se trata de una solución digital que no requiere de infraestructura física adicional. 
-        
+</p>
+
+<p style="text-align: justify;"> 
 El proyecto contribuirá al compromiso de la UPT con la sostenibilidad al minimizar el uso de papel y otros recursos físicos, promoviendo la digitalización y el acceso en línea a la información académica.
+</p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
