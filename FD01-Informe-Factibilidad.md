@@ -157,17 +157,49 @@ En la actualidad, los estudiantes de la Escuela Profesional de Ingeniería de Si
 
 ### 3.2. Consideraciones de hardware y software
 
-+ **Sistema Operativo:**<p style="text-align: justify;">
-Los programas utilizados para el desarrollo de la aplicación web son compatibles con Windows y macOS. 
-</p>
+<u>*Hardware*</u>
 
-+ **Visual Studio Code:**<p style="text-align: justify;">
-Es necesario instalar Visual Studio Code (versión 1.89), que es un entorno de desarrollo integrado (IDE) ligero y altamente personalizable. Se pueden agregar extensiones específicas para ayudar en el desarrollo del sistema. 
-</p>
+**Computadora de Desarrollo:**
 
-+ **Power BI:**<p style="text-align: justify;">
-Se usará para crear informes y gráficos interactivos, y dashboard; integrando datos de diversas fuentes para facilitar la toma de decisiones.
-</p>
+Computadoras con hardware suficiente para ejecutar Visual Studio Code y diversos programas para la implementación del sistema. Se recomienda una computadora con al menos un procesador de cuatro núcleos, 8 GB de RAM y un disco duro sólido (SSD) para un rendimiento óptimo.
+
+- Acer Nitro 5
+- MacBook Air 2017
+- HP Victus 15
+
+**Memoria RAM:**
+
+Visual Studio Code puede consumir recursos considerables, especialmente al compilar y ejecutar la aplicación. Por lo tanto, contar con suficiente memoria RAM es esencial para evitar la ralentización del sistema.
+
+- 16 GB de RAM
+
+**Procesador:**
+
+El procesador de los equipos de trabajo debe ser altamente potente, con varios núcleos e hilos para procesar la información del software utilizado.
+
+- Intel Core i5 12500H (12 núcleos y 8 hilos)
+
+**Tarjeta Gráfica:**
+
+Los equipos de trabajo deben contar con una GPU dedicada, necesaria para realizar cálculos paralelos de manera eficiente, acelerar el entrenamiento y ejecución de modelos de inteligencia artificial, mejorar la interactividad y el rendimiento de la aplicación, y facilitar el procesamiento de gráficos para visualizaciones de datos y elementos gráficos avanzados.
+
+- Nvidia RTX 3050
+- Intel HD Graphics 6000 (1536 MB)
+
+<u>*Software*</u>
+
+**Sistema Operativo:**
+
+Los programas utilizados para el desarrollo de la aplicación web son compatibles con Windows y macOS.
+
+**Visual Studio Code:**
+
+Es necesario instalar Visual Studio Code (versión 1.89), que es un entorno de desarrollo integrado (IDE) ligero y altamente personalizable. Se pueden agregar extensiones específicas para ayudar en el desarrollo del sistema.
+
+**Power BI:**
+
+Se usará para crear informes, gráficos interactivos y el dashboard principal; integrando datos de diversas fuentes para facilitar la toma de decisiones.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -175,7 +207,26 @@ Se usará para crear informes y gráficos interactivos, y dashboard; integrando 
 
 ### 4.1. Factibilidad Técnica
 
+Hardware Disponible
+Equipos de Desarrollo: Se necesitan equipos de desarrollo capaces de ejecutar software de desarrollo web y herramientas de análisis de datos, los materiales previamente mencionados cumplen con las especificaciones mínimas requeridas:
+Procesador: Intel Core i5 de 4 núcleos, útil para el manejo de tareas de programación, depuración y pruebas.
+Memoria RAM: De 8 a 16 GB de memoria DDR4 expandible.
+Almacenamiento: Disco duro sólido (SSD) para el sistema operativo, esto asegura tiempos de carga cada vez más cortos con un óptimo rendimiento general.
+Tarjeta Gráfica: Se usa la tarjeta gráfica integrada en el procesador Intel, pero también podemos hacer uso de una GPU dedicada como la Nvidia RTX 3050.
+Servidor:
+Servidor de Desarrollo: Se puede usar un servidor o en un entorno virtual para las pruebas internas, con especificaciones de hardware como un procesador de 4 núcleos y 8 GB de RAM.
+Software
+Aplicaciones y Herramientas de Desarrollo:
+Visual Studio Code: Es el IDE principal para el desarrollo del proyecto, siendo compatible con los sistemas operativos Windows y macOS, ofreciendo extensiones que personalizan el entorno de trabajo.
 
+Power BI: Esta herramienta es para la creación de dashboard y visualizaciones de datos interactivos, y su uso depende de la integración con la base de datos y la infraestructura del servidor, además de ser poderosa para los análisis de datos.
+Bases de Datos: Se usa la base de datos SQL, así como MySQL o PostgreSQL para la gestión de datos relacionales. Y se usan MongoDB y NoSQL para la gestión de datos no relacionales.
+Sistemas Operativos: Pueden funcionar bajo Windows y macOS.
+Navegadores Web: La plataforma debe ser compatible con los navegadores web más conocidos y utilizados tales como Google Chrome, Mozilla Firefox, Microsoft Edge, etc.
+Servicios en la Nube: Se puede tomar en cuenta el uso de los servicios en la nube tales como AWS, Google Cloud o Azure para alojar la plataforma, pues proporciona escalabilidad, mantenimiento y seguridad.
+Infraestructura de Red
+Conexión a Internet: Una conexión de alta velocidad es de gran importancia, más aún con una arquitectura de nube o con servidores externos que aseguren la disponibilidad de la plataforma.
+Seguridad de Red: Aquí entra la implementación de firewalls, sistemas de detección de intrusos y toda política que proteja los datos sensibles de los estudiantes y del sistema contra posibles ataques
 
 ### 4.2. Factibilidad Económica
 
@@ -188,36 +239,32 @@ Se definieron los siguientes costos:
 <center>
 <strong>Tabla 01:</strong> En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00
 </center>
-<br>
 
-4.2.2. Costos operativos durante el desarrollo 
+#### 4.2.2. Costos operativos durante el desarrollo 
 
 ![costos-operativos](./media/costos-operativos.png)
 
 <center>
 <strong>Tabla 02:</strong> En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00
 </center>
-<br>
 
-4.2.3. Costos del ambiente
+#### 4.2.3. Costos del ambiente
 
 ![costos-ambientales](./media/costos-ambientales.png)
 
 <center>
 <strong>Tabla 03:</strong> En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00
 </center>
-<br>
 
-4.2.4. Costos de personal
+#### 4.2.4. Costos de personal
 
 ![costos-personal](./media/costos-personal.png)
 
 <center>
 <strong>Tabla 04:</strong> El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00
 </center>
-<br>
 
-4.2.5.  Costos totales del desarrollo del sistema
+#### 4.2.5.  Costos totales del desarrollo del sistema
 
 ![costos-totales](./media/costos-totales.png)
 
