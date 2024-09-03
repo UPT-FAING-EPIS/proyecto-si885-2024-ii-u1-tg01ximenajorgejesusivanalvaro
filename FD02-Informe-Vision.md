@@ -206,6 +206,15 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 ### 3.3 Entorno de usuario
 
 ### 3.4 Perfiles de los interesados
+<p style="text-align: justify;">
+    <strong>- Administradores universitarios:</strong> Buscan optimizar recursos, mejorar la calidad educativa y tomar decisiones estratégicas.
+</p>
+<p style="text-align: justify;">
+    <strong>- Docentes:</strong> Desean mejorar el rendimiento de sus estudiantes y adaptar sus métodos de enseñanza.
+</p>
+<p style="text-align: justify;">
+    <strong>- Estudiantes:</strong> Quieren comprender su propio progreso, identificar áreas de mejora y tomar decisiones sobre su futuro académico.
+</p>
 
 ### 3.5 Perfiles de los Usuarios
 
