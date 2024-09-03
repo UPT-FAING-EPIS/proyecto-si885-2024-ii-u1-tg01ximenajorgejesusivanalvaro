@@ -205,6 +205,16 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 
 ### 3.3 Entorno de usuario
 
+- **Plataforma en Línea:**
+<p style="text-align: justify;">
+Los usuarios acceden a PAMIS a través de una plataforma en línea. Esto significa que el entorno de usuario se basa en una interfaz web intuitiva que permite la navegación, consulta y análisis de datos académicos, creación de reportes, y visualización de estadísticas de rendimiento académico. Además, los usuarios pueden personalizar su experiencia para centrarse en las áreas que más les interesan, como el seguimiento de su propio progreso o el análisis comparativo de rendimiento.
+
+- **Acceso a Internet:**
+<p style="text-align: justify;">
+Dado que PAMIS es una plataforma basada en la web, los usuarios requieren un acceso estable y confiable a Internet para utilizarla eficazmente. Esto asegura que los estudiantes, docentes y administradores puedan interactuar con la plataforma desde cualquier ubicación, utilizando dispositivos inteligentes como computadoras, tabletas o teléfonos móviles, facilitando así el acceso a la información en cualquier momento y lugar.
+</p>
+
+
 ### 3.4 Perfiles de los interesados
 <p style="text-align: justify;">
     <strong>- Administradores universitarios:</strong> Buscan optimizar recursos, mejorar la calidad educativa y tomar decisiones estratégicas.
