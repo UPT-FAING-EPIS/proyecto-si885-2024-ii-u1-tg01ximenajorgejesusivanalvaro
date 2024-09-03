@@ -28,13 +28,15 @@ Docente: *Mag. Patrick Cuadros Quiroga*
 
 # **Documento de Visión**
 
+**Plataforma de análisis de datos de matriculados en la carrera de Ingeniería de Sistemas para la Universidad Privada de Tacna - PAMIS**
+
 **Versión 1.0**
 
 ## **Control de Versiones**
 
 | Versión | Hecha por | Revisada por | Aprobada por | Fecha      | Motivo           |
 | :-----: | --------- | ------------ | ------------ | ---------- | ---------------- |
-| 1.0     | JAR       | ACL          | XOF          | 27/08/2024 | Versión Original |
+| 1.0     | JAR       | IME          | XOF          | 27/08/2024 | Versión Original |
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

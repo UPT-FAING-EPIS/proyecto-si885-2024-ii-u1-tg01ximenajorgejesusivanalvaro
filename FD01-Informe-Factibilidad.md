@@ -1,23 +1,17 @@
 <center>
 
-[comment]: <img src="./media/media/image1.png" style="width:1.088in;height:1.46256in" alt="escudo.png" />
+![logo-upt](./media/logo-upt.png)
 
-![./media/media/image1.png](./media/logo-upt.png)
+# UNIVERSIDAD PRIVADA DE TACNA  
+## FACULTAD DE INGENIERÍA  
+### Escuela Profesional de Ingeniería de Sistemas
 
-**UNIVERSIDAD PRIVADA DE TACNA**
+**Plataforma de análisis de datos de matriculados en la carrera de Ingeniería de Sistemas para la Universidad Privada de Tacna - PAMIS**
 
-**FACULTAD DE INGENIERIA**
+Curso: *Inteligencia de Negocios*  
+Docente: *Mag. Patrick Cuadros Quiroga*
 
-**Escuela Profesional de Ingeniería de Sistemas**
-
-**Proyecto *{Nombre de Proyecto}***
-
-Curso: *Inteligencia de Negocios*
-
-Docente: *Ing. Patrick Cuadros Quiroga*
-
-Integrantes:
-
+**Integrantes:**
 
 <p style="font-size: 13px;">Agreda Ramirez, Jesus Eduardo  &emsp;&emsp;&emsp;&emsp;- &emsp;  (2021069823)
 <br>Castañeda Centurion, Jorge Enrique &emsp; - &emsp; (2021069822)
@@ -25,59 +19,62 @@ Integrantes:
 <br>Malaga Espinoza, Ivan Francisco &emsp;&emsp;&ensp; - &emsp; (2021071086)
 <br>Ortiz Fernandez, Ximena Andrea &emsp;&emsp;&ensp; - &emsp;  (2021071080)</p>
 
-
-
-
-
-**Tacna – Perú**
-
+**Tacna – Perú**  
 ***2024***
 
-**  **
 </center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-Sistema *{Nombre del Sistema}*
-
-Informe de Factibilidad
-
-Versión *{1.0}*
-
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-# **INDICE GENERAL**
+# **Informe de Factibilidad**
 
-[1. Descripción del Proyecto](#_Toc52661346)
+**Plataforma de análisis de datos de matriculados en la carrera de Ingeniería de Sistemas para la Universidad Privada de Tacna - PAMIS**
 
-[2. Riesgos](#_Toc52661347)
+**Versión 1.0**
 
-[3. Análisis de la Situación actual](#_Toc52661348)
+## **Control de Versiones**
 
-[4. Estudio de Factibilidad](#_Toc52661349)
-
-[4.1 Factibilidad Técnica](#_Toc52661350)
-
-[4.2 Factibilidad económica](#_Toc52661351)
-
-[4.3 Factibilidad Operativa](#_Toc52661352)
-
-[4.4 Factibilidad Legal](#_Toc52661353)
-
-[4.5 Factibilidad Social](#_Toc52661354)
-
-[4.6 Factibilidad Ambiental](#_Toc52661355)
-
-[5. Análisis Financiero](#_Toc52661356)
-
-[6. Conclusiones](#_Toc52661357)
-
+| Versión | Hecha por | Revisada por | Aprobada por | Fecha      | Motivo           |
+| :-----: | --------- | ------------ | ------------ | ---------- | ---------------- |
+| 1.0     | JCC       | ACL          | JAR          | 27/08/2024 | Versión Original |
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
+## **Índice General**
+
+1. [Descripción del Proyecto](#_Toc52661346)  
+   1.1 Propósito  
+   1.2 Alcance  
+   1.3 Definiciones, Siglas y Abreviaturas  
+   1.4 Referencias  
+   1.5 Visión General  
+
+2. [Riesgos](#_Toc52661347)  
+   2.1 Oportunidad de negocio  
+   2.2 Definición del problema  
+
+3. [Análisis de Situación Actual](#_Toc52661348)  
+   3.1 Resumen de los interesados  
+   3.2 Resumen de los usuarios  
+   3.3 Entorno de usuario  
+   3.4 Perfiles de los interesados  
+   3.5 Perfiles de los Usuarios  
+   3.6 Necesidades de los interesados y usuarios  
+
+4. [Estudio de Factibilidad](#_Toc52661349)  
+   4.1 Factibilidad Técnica
+   4.2 Factibilidad Económica
+   4.3 Factibilidad Operativa
+   4.4 Factibilidad Legal
+   4.5 Factibilidad Social
+   4.6 Factibilidad Ambiental
+
+5. [Análisis Financiero](#_Toc52661350)  
+
+6. [Conclusiones](#_Toc52661355)  
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 **<u>Informe de Factibilidad</u>**
 
