@@ -141,17 +141,17 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
   - Mantenimiento y actualizaciones continuas del dashboard en PowerBI, basadas en el feedback de los usuarios y las necesidades emergentes.
   
 <u>Exclusiones:</u>
-- Servicios Educativos Directos: PAMIS no proporcionará servicios educativos directos ni consultas académicas personalizadas.
-- Gestión de Otros Programas Académicos: El enfoque estará limitado a la Ingeniería de Sistemas, y no se incluirá la gestión de otros programas académicos.
-- Soporte Legal o Administrativo: La plataforma no ofrecerá asistencia legal ni soporte administrativo más allá del análisis de datos académicos.
-- Soporte para Dispositivos Móviles: PAMIS no ofrecerá soporte ni optimización para dispositivos móviles, enfocándose únicamente en entornos de escritorio a través de PowerBI.
+- **Servicios Educativos Directos:** PAMIS no proporcionará servicios educativos directos ni consultas académicas personalizadas.
+- **Gestión de Otros Programas Académicos:** El enfoque estará limitado a la Ingeniería de Sistemas, y no se incluirá la gestión de otros programas académicos.
+- **Soporte Legal o Administrativo:** La plataforma no ofrecerá asistencia legal ni soporte administrativo más allá del análisis de datos académicos.
+- **Soporte para Dispositivos Móviles:** PAMIS no ofrecerá soporte ni optimización para dispositivos móviles, enfocándose únicamente en entornos de escritorio a través de PowerBI.
 
 ### 1.3 Definiciones, Siglas y Abreviaturas
-- PAMIS: Plataforma de Análisis de Matriculados en Ingeniería de Sistemas.
-- UPT: Universidad Privada de Tacna.
-- EPIS: Escuela profesional de ingeniería de sistemas.
-- Análisis de datos: Proceso de recopilación, limpieza, transformación y modelado de datos con el objetivo de descubrir patrones, tendencias y relaciones significativas.
-- Interfaz de usuario: Conjunto de elementos visuales y controles que permiten a un usuario interactuar con un software o aplicación. 
+- **PAMIS:** Plataforma de Análisis de Matriculados en Ingeniería de Sistemas.
+- **UPT:** Universidad Privada de Tacna.
+- **EPIS:** Escuela profesional de ingeniería de sistemas.
+- **Análisis de datos:** Proceso de recopilación, limpieza, transformación y modelado de datos con el objetivo de descubrir patrones, tendencias y relaciones significativas.
+- **Interfaz de usuario:** Conjunto de elementos visuales y controles que permiten a un usuario interactuar con un software o aplicación. 
 
 ### 1.4 Referencias
 - Universidad Privada de Tacna. (2024, 26 agosto).  
@@ -168,15 +168,15 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 </p>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
+
 ## 2. Posicionamiento
 
 ### 2.1 Oportunidad de negocio
 
-
 * **La creciente demanda por análisis de datos en la educación superior:** 
 <p style="text-align: justify;">
 Las instituciones educativas buscan cada vez más herramientas para tomar decisiones basadas en datos y mejorar la calidad de la enseñanza.
- </p>
+</p>
 
 * **La necesidad de personalizar la experiencia educativa:**
 <p style="text-align: justify;">
@@ -185,30 +185,26 @@ PAMIS puede ayudar a identificar las necesidades individuales de los estudiantes
 
 * **La importancia de la toma de decisiones basadas en datos:**
 <p style="text-align: justify;">
- Al proporcionar información precisa y oportuna, PAMIS puede ayudar a los tomadores de decisiones a identificar tendencias, predecir resultados y optimizar los recursos.
- </p>
+Al proporcionar información precisa y oportuna, PAMIS puede ayudar a los tomadores de decisiones a identificar tendencias, predecir resultados y optimizar los recursos.
+</p>
 
 
 ### 2.2 Definición del problema
 
-* **Falta de herramientas analíticas:**
 <p style="text-align: justify;">
- Las instituciones educativas suelen carecer de herramientas especializadas para analizar grandes volúmenes de datos académicos de manera eficiente.
+<strong>- Falta de herramientas analíticas:</strong> Las instituciones educativas suelen carecer de herramientas especializadas para analizar grandes volúmenes de datos académicos de manera eficiente.
 </p>
 
-* **Dificultad para identificar patrones y tendencias:**
 <p style="text-align: justify;">
-La identificación de patrones y tendencias en los datos académicos puede ser compleja y requiere de habilidades estadísticas avanzadas.
+<strong>- Dificultad para identificar patrones y tendencias:</strong>  La identificación de patrones y tendencias en los datos académicos puede ser compleja y requiere de habilidades estadísticas avanzadas.
 </p>
 
-
-* **Toma de decisiones basada en intuición:** 
 <p style="text-align: justify;">
-En muchos casos, las decisiones relacionadas con la educación se toman en base a la experiencia y la intuición, en lugar de datos objetivos.
+<strong>- Toma de decisiones basada en intuición:</strong>  En muchos casos, las decisiones relacionadas con la educación se toman en base a la experiencia y la intuición, en lugar de datos objetivos.
 </p>
-
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 ## 3. Descripción de los interesados y usuarios
 
@@ -309,14 +305,23 @@ PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) será
 ### 4.3 Suposiciones y dependencias
 
 <ul style="text-align: justify;">
-    <li>Disponibilidad de datos precisos y actualizados: El éxito de la plataforma dependerá de la calidad y precisión de los datos ingresados en el sistema.</li>
-    <li>Apoyo institucional: Se asume que la institución proporcionará el apoyo necesario para la implementación y el mantenimiento de la plataforma, incluyendo acceso a la base de datos y retroalimentación continua.</li>
-    <li> Limitaciones del software: Como la aplicación se basa en PowerBI, algunas funcionalidades avanzadas pueden estar limitadas por las capacidades inherentes de la plataforma.
- </li>
-    <li> Modificaciones en los requerimientos de la plataforma: Referido a la posibilidad de que los requisitos y especificaciones de la plataforma cambien durante el proceso de desarrollo. Las modificaciones repentinas pueden afectar la planificación, el diseño y la implementación del proyecto, lo que potencialmente conduce a retrasos, confusiones y aumentos en los costos. </li>
+    <li><strong>Disponibilidad de datos precisos y actualizados:</strong> El éxito de la plataforma dependerá de la calidad y precisión de los datos ingresados en el sistema.</li>
+    <li><strong>Apoyo institucional:</strong> Se asume que la institución proporcionará el apoyo necesario para la implementación y el mantenimiento de la plataforma, incluyendo acceso a la base de datos y retroalimentación continua.</li>
+    <li><strong>Limitaciones del software:</strong> Como la aplicación se basa en PowerBI, algunas funcionalidades avanzadas pueden estar limitadas por las capacidades inherentes de la plataforma.</li>
+    <li><strong>Modificaciones en los requerimientos de la plataforma:</strong> Referido a la posibilidad de que los requisitos y especificaciones de la plataforma cambien durante el proceso de desarrollo. Las modificaciones repentinas pueden afectar la planificación, el diseño y la implementación del proyecto, lo que potencialmente conduce a retrasos, confusiones y aumentos en los costos. </li>
 </ul>
 
 ### 4.4 Costos y precios
+<p style="text-align: justify;">
+Los costos incluirán desarrollo de la aplicación en Power BI. El servicio será gratuito para los estudiantes.
+</p>
+
+![Costos-Totales](./media/Costos-Totales.png)
+
+<center>
+<strong>Tabla 01:</strong> En Costos Totales se resume los subtotales de los costos generales,
+operativos, de personal y del ambiente, llegando a un total acumulado de S/27,180.00
+</center>
 
 ### 4.5 Licenciamiento e instalación 
 <p style="text-align: justify;">PAMIS será accesible a través de PowerBI como una plataforma web, lo que permitirá a los usuarios acceder a los dashboards y reportes sin necesidad de realizar una instalación local. Sin embargo, será necesario que los usuarios acepten los términos y condiciones de uso de PowerBI, así como cumplir con los requisitos de licencia de la herramienta para utilizar las funcionalidades completas del sistema en la web.</p>
