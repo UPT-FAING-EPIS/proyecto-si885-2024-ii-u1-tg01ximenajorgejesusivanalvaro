@@ -217,8 +217,34 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 </p>
 
 ### 3.5 Perfiles de los Usuarios
+<p style="text-align: justify;">
+    <strong>- Estudiantes:</strong> Diferentes niveles de conocimiento tecnológico, interés en el análisis de datos, motivación por mejorar su desempeño académico.
+</p>
 
 ### 3.6 Necesidades de los interesados y usuarios
+<p style="text-align: justify;">
+    <strong>- Administradores:</strong>
+</p>
+<ul style="text-align: justify;">
+    <li>Visualizar el rendimiento académico global de la carrera.</li>
+    <li>Identificar áreas de mejora en los programas de estudio.</li>
+    <li>Tomar decisiones informadas sobre la asignación de recursos.</li>
+</ul>
+<p style="text-align: justify;">
+    <strong>- Docentes:</strong>
+</p>
+<ul style="text-align: justify;">
+    <li>Monitorear el progreso de sus estudiantes.</li>
+    <li>Identificar los conceptos que los estudiantes tienen dificultades para comprender.</li>
+    <li>Personalizar sus métodos de enseñanza.</li>
+</ul>
+<p style="text-align: justify;">
+    <strong>- Estudiantes:</strong>
+</p>
+<ul style="text-align: justify;">
+    <li>Comprender su propio rendimiento en comparación con sus compañeros.</li>
+    <li>Identificar las áreas en las que necesitan mejorar.</li>
+</ul>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
