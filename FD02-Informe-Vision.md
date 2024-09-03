@@ -95,11 +95,7 @@ Docente: *Mag. Patrick Cuadros Quiroga*
 ## 1. Introducción
 
 <p style="text-align: justify;">
-    En un entorno académico cada vez más complejo, donde el rendimiento estudiantil y la eficiencia de los programas educativos 
-    son fundamentales para el éxito de una institución, la capacidad de analizar y comprender datos detallados es crucial. 
-    La Plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) surge como una respuesta innovadora a la 
-    necesidad de los actuales y futuros estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada 
-    de Tacna de obtener una visión clara y profunda del desempeño académico que presenta la carrera.
+    En un entorno académico cada vez más complejo, donde el rendimiento estudiantil y la eficiencia de los programas educativos son fundamentales para el éxito de una institución, la capacidad de analizar y comprender datos detallados es crucial. La Plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) surge como una respuesta innovadora a la necesidad de los actuales y futuros estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna de obtener una visión clara y profunda del desempeño académico que presenta la carrera.
 </p>
 
 <p style="text-align: justify;">
@@ -119,20 +115,20 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
 
 **Se incluye:**
 <p style="text-align: justify;">
-- Facilitar el Análisis Académico: Proporcionar una plataforma que permita a los usuarios analizar datos de matriculación y rendimiento académico de manera eficiente, identificando tendencias y patrones clave.</p>
+- <u>Facilitar el Análisis Académico:</u> Proporcionar una plataforma que permita a los usuarios analizar datos de matriculación y rendimiento académico de manera eficiente, identificando tendencias y patrones clave.</p>
 
 
 <p style="text-align: justify;">
-- Mejorar la Toma de Decisiones: Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas para los estudiantes.</p>
+- <u>Mejorar la Toma de Decisiones:</u> Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas para los estudiantes.</p>
 
 
 <p style="text-align: justify;">
-- Optimizar los Resultados Educativos: A través del análisis de datos y la identificación de áreas de mejora, ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación.</p>
+- <u>Optimizar los Resultados Educativos:</u> A través del análisis de datos y la identificación de áreas de mejora, ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación.</p>
 
 
 ### 1.2 Alcance
 
-**Inclusiones:**
+<u>Inclusiones:</u>
 - **Desarrollo de una Aplicación en PowerBI:**
   - Creación de un dashboard interactivo en PowerBI que facilite la exploración visual de los datos académicos.
   - Implementación de funcionalidades que permitan a los usuarios visualizar datos de matriculación, rendimiento académico y tasas de aprobación mediante gráficos dinámicos y tablas detalladas en PowerBI.
@@ -144,10 +140,11 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
   - Integración de capacidades avanzadas de análisis de datos y visualización en PowerBI para un rendimiento óptimo.
   - Mantenimiento y actualizaciones continuas del dashboard en PowerBI, basadas en el feedback de los usuarios y las necesidades emergentes.
   
-**Exclusiones:**
+<u>Exclusiones:</u>
 - Servicios Educativos Directos: PAMIS no proporcionará servicios educativos directos ni consultas académicas personalizadas.
 - Gestión de Otros Programas Académicos: El enfoque estará limitado a la Ingeniería de Sistemas, y no se incluirá la gestión de otros programas académicos.
 - Soporte Legal o Administrativo: La plataforma no ofrecerá asistencia legal ni soporte administrativo más allá del análisis de datos académicos.
+- Soporte para Dispositivos Móviles: PAMIS no ofrecerá soporte ni optimización para dispositivos móviles, enfocándose únicamente en entornos de escritorio a través de PowerBI.
 
 ### 1.3 Definiciones, Siglas y Abreviaturas
 - PAMIS: Plataforma de Análisis de Matriculados en Ingeniería de Sistemas.
@@ -173,8 +170,6 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 
 ## 2. Posicionamiento
 
-
-
 ### 2.1 Oportunidad de negocio
 
 ### 2.2 Definición del problema
@@ -193,7 +188,6 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 <p style="text-align: justify;">
     <strong>- Estudiantes:</strong> Alumnos de la carrera de Ingeniería de Sistemas.
 </p>
-
 
 ### 3.2 Resumen de los usuarios
 <p style="text-align: justify;">
@@ -268,14 +262,14 @@ PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) será
 ### 4.2 Resumen de capacidades
 <p>PAMIS proporcionará:</p>
 <ul style="text-align: justify;">
-    <li>Dashboard interactivo: Una interfaz principal que permitirá a los estudiantes visualizar de manera rápida y comprensible los principales indicadores de su rendimiento académico.</li>
-    <li>Cinco reportes detallados: Cada reporte se enfocará en aspectos clave del desempeño académico, tomando en cuenta los objetivos estratégicos del proyecto. Los reportes incluirán:
+    <li><strong>Dashboard interactivo:</strong> Una interfaz principal que permitirá a los estudiantes visualizar de manera rápida y comprensible los principales indicadores de su rendimiento académico.</li>
+    <li><strong>Cinco reportes detallados:</strong> Cada reporte se enfocará en aspectos clave del desempeño académico, tomando en cuenta los objetivos estratégicos del proyecto. Los reportes incluirán:
     <ol><li>Análisis de matrículas: Datos sobre las tasas de matriculación y su evolución a lo largo del tiempo.</li><li>Desempeño académico por curso: Visualización de las tasas de aprobación y notas máximas y mínimas por curso.</li><li>Análisis comparativo entre cohortes: Comparaciones de rendimiento entre diferentes generaciones de estudiantes.</li><li>Identificación de áreas críticas: Detección de cursos o áreas con alto índice de desaprobación.
 </li><li>Análisis de matriculados por docente: Matriculados por docente y la probabilidad de aprobar o desaprobar con él.</li>
     </ol></li>
-    <li>Interactividad avanzada: Posibilidad de filtrar y segmentar los datos en función de criterios específicos (como curso, semestre, o año académico).
+    <li><strong>Interactividad avanzada:</strong> Posibilidad de filtrar y segmentar los datos en función de criterios específicos (como curso, semestre, o año académico).
     </li>
-    <li>Exportación de reportes: Los usuarios podrán exportar los reportes en formatos accesibles, como PDF o Excel, para su análisis posterior.</li>
+    <li><strong>Exportación de reportes:</strong> Los usuarios podrán exportar los reportes en formatos accesibles, como PDF o Excel, para su análisis posterior.</li>
 </ul>
 
 ### 4.3 Suposiciones y dependencias
