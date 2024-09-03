@@ -172,6 +172,23 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 
 ### 2.1 Oportunidad de negocio
 
+
+* **La creciente demanda por análisis de datos en la educación superior:** 
+<p style="text-align: justify;">
+Las instituciones educativas buscan cada vez más herramientas para tomar decisiones basadas en datos y mejorar la calidad de la enseñanza.
+ </p>
+
+* **La necesidad de personalizar la experiencia educativa:**
+<p style="text-align: justify;">
+PAMIS puede ayudar a identificar las necesidades individuales de los estudiantes.
+</p>
+
+* **La importancia de la toma de decisiones basadas en datos:**
+<p style="text-align: justify;">
+ Al proporcionar información precisa y oportuna, PAMIS puede ayudar a los tomadores de decisiones a identificar tendencias, predecir resultados y optimizar los recursos.
+ </p>
+
+
 ### 2.2 Definición del problema
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
