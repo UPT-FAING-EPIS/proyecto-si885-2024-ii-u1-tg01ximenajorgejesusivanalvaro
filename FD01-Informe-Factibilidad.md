@@ -127,11 +127,30 @@ Versión *{1.0}*
 
     3.1. Planteamiento del problema
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+    
+    En la actualidad, los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna (UPT) enfrentan diversos desafíos en la gestión de su rendimiento académico. Estos desafíos incluyen la falta de herramientas adecuadas para acceder a estadísticas detalladas sobre los cursos, la dificultad para tomar decisiones informadas basadas en datos claros y la ausencia de una plataforma centralizada para visualizar su progreso académico.
+
+
+    + **Falta de acceso a información académica personalizada:** La escuela dispone de un sistema administrativo que gestiona las estadísticas académicas a nivel institucional. Sin embargo, los estudiantes no tienen acceso directo a una plataforma que les permita visualizar de manera clara y personalizada datos como tasas de aprobación, índices de deserción y distribución de calificaciones en los cursos que les interesan. Esto limita su capacidad para evaluar y planificar su trayectoria académica de manera efectiva.
+    
+    + __Dificultades para tomar decisiones informadas:__ La carencia de herramientas accesibles y comprensibles para los estudiantes implica que deben tomar decisiones basadas en percepciones o información incompleta. Esta situación puede llevar a una planificación académica menos eficaz y a un rendimiento subóptimo en los cursos.
+    
+    + **Impacto en el rendimiento académico:** Sin acceso a una visión detallada y precisa de su rendimiento académico, los estudiantes pueden enfrentar dificultades para identificar áreas de mejora y ajustar su enfoque de estudio, lo que afecta negativamente su desempeño y progreso académico.
+
+    + **Necesidad de una plataforma de visualización de datos**: Es fundamental desarrollar una herramienta analítica que permita a los estudiantes acceder a estadísticas relevantes y personalizadas sobre los cursos. Esta plataforma debería facilitar la toma de decisiones informadas, mejorar la planificación académica y optimizar el rendimiento académico de los estudiantes.
+
 
     3.2. Consideraciones de hardware y software
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+    + **Sistema Operativo:** 
+    Los programas utilizados para el desarrollo de la aplicación web son compatibles con Windows y macOS. 
+
+    + **Visual Studio Code:** 
+    Es necesario instalar Visual Studio Code (versión 1.89), que es un entorno de desarrollo integrado (IDE) ligero y altamente personalizable. Se pueden agregar extensiones específicas para ayudar en el desarrollo del sistema. 
+    
+    + **Power BI:** 
+    Se usará para crear informes y gráficos interactivos, y dashboard; integrando datos de diversas fuentes para facilitar la toma de decisiones.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -150,54 +169,57 @@ Versión *{1.0}*
 
     4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
 
-        El propósito del estudio de viabilidad económica, es determinar los beneficios económicos del proyecto o sistema propuesto para la organización, en contraposición con los costos.
-        Como se mencionó anteriormente en el estudio de factibilidad técnica wvaluar si la institución (departamento de TI) cuenta con las herramientas necesarias para la implantación del sistema y evaluar si la propuesta requiere o no de una inversión inicial en infraestructura informática.
-        Se plantearán los costos del proyecto.
-        Costeo del Proyecto: Consiste en estimar los costos de los recursos Humanos, materiales o consumibles y/o máquinas) directos para completar las actividades del proyecto}.*
-
-        Definir los siguientes costos:
+        Se definieron los siguientes costos:
 
         4.2.1. Costos Generales
 
-                Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.
+                Tabla 01: En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00, véase la carpeta "media".
 
         4.2.2. Costos operativos durante el desarrollo 
         
-                Evaluar costos necesarios para la operatividad de las actividades de la empresa durante el periodo en el que se realizara el proyecto. Los costos de operación pueden ser renta de oficina, agua, luz, teléfono, etc.
+                Tabla 02: En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00, véase la carpeta "media".
 
         4.2.3. Costos del ambiente
 
-                Evaluar si se cuenta con los requerimientos técnicos para la implantación del software como el dominio, infraestructura de red, acceso a internet, etc.
+                Tabla 03: En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00, véase la carpeta "media".
 
         4.2.4. Costos de personal
 
-                Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.
-
-                No se considerará personal para la operación y funcionamiento del sistema.
-
-                Incluir tabla que muestra los gastos correspondientes al personal.
-
-                Indicar organización y roles. Indicar horario de trabajo del personal.
+                Tabla 04: El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00, véase la carpeta "media".
 
         4.2.5.  Costos totales del desarrollo del sistema
 
-                {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
+                Tabla 05: En Costos Totales se resume los subtotales de los costos generales, operativos, de personal y del ambiente, llegando a un total acumulado de S/ 27,180.00, véase la carpeta "media".
+
 
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
 
-        Describir los beneficios del producto y si se tiene la capacidad por parte del cliente para mantener el sistema funcionando y garantizar el buen funcionamiento y su impacto en los usuarios. Lista de interesados.
+        Beneficios del Producto: El proyecto PAMIS proporcionará una plataforma analítica que permite a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna acceder a estadísticas detalladas sobre los cursos. Esto mejorará la toma de decisiones académicas, optimizará el rendimiento estudiantil y proporcionará una experiencia educativa más personalizada. Además, al centralizar la información, se facilitará la planificación académica y se reducirá la carga administrativa asociada con la consulta y manejo de datos.
+        
+        Impacto en los Usuarios: Los estudiantes se beneficiarán al poder acceder a datos precisos y personalizados sobre su rendimiento académico. Esto les permitirá tomar decisiones más informadas sobre su trayectoria educativa, lo que puede resultar en un mejor rendimiento académico y una planificación más efectiva.
+
 
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
+        Cumplimiento con Regulaciones de Protección de Datos: El proyecto PAMIS deberá cumplir con las normativas vigentes de protección de datos personales, como la Ley N° 29733, Ley de Protección de Datos Personales del Perú. Esta ley regula el tratamiento de datos personales para garantizar la privacidad de la información de los estudiantes. La plataforma deberá implementar medidas de seguridad que protejan los datos académicos y personales de los estudiantes para evitar cualquier tipo de vulnerabilidad o brecha de seguridad.
+
+        Leyes de Propiedad Intelectual: La plataforma debe respetar las leyes de propiedad intelectual, asegurando que cualquier software, código o tecnología utilizada cuente con las licencias correspondientes. Esto incluye el uso de herramientas de software como Visual Studio Code y Power BI, las cuales tienen términos de uso que deben ser cumplidos.
+
+        Normativas internas de la Universidad: Dado que el proyecto manejará información académica y administrativa de la Universidad Privada de Tacna, es crucial que todas las actividades de desarrollo y operación del sistema se alineen estrictamente con las normativas internas de la universidad. Esto incluye cumplir con las políticas de privacidad, seguridad de la información y cualquier otra regulación interna que rija el manejo y protección de los datos universitarios.
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
+        El proyecto PAMIS se alinea con los valores y códigos de conducta de la UPT y del entorno social en el que opera. Al proporcionar a los estudiantes una herramienta que les permita tomar decisiones académicas informadas, el proyecto contribuirá al desarrollo académico y personal de los estudiantes, promoviendo una cultura de mejora continua y éxito académico.
+        
+        Además, al enfocarse en la personalización de la experiencia educativa, el proyecto responde a las necesidades y expectativas sociales actuales de acceso a la información y toma de decisiones basadas en datos.
+
 
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
+        Desde una perspectiva ambiental, el proyecto PAMIS tendrá un impacto mínimo en el medio ambiente, ya que se trata de una solución digital que no requiere de infraestructura física adicional. 
+        
+        El proyecto contribuirá al compromiso de la UPT con la sostenibilidad al minimizar el uso de papel y otros recursos físicos, promoviendo la digitalización y el acceso en línea a la información académica.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
