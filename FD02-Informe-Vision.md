@@ -196,6 +196,12 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 
 
 ### 3.2 Resumen de los usuarios
+<p style="text-align: justify;">
+    <strong>- Primarios:</strong> Estudiantes de Ingeniería de Sistemas.
+</p>
+<p style="text-align: justify;">
+    <strong>- Secundarios:</strong> Docentes y administradores.
+</p>
 
 ### 3.3 Entorno de usuario
 
