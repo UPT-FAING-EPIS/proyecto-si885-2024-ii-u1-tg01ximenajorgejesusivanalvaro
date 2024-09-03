@@ -77,10 +77,10 @@ Docente: *Mag. Patrick Cuadros Quiroga*
 8. [Precedencia y Prioridad](#_Toc52661353)  
 
 9. [Otros requerimientos del producto](#_Toc52661354)  
-   - Estándares legales  
-   - Estándares de comunicación  
-   - Estándares de cumplimiento de la plataforma  
-   - Estándares de calidad y seguridad  
+   9.1 Estándares legales  
+   9.2 Estándares de comunicación  
+   9.3 Estándares de cumplimiento de la plataforma  
+   9.4 Estándares de calidad y seguridad  
 
 10. [Conclusiones](#_Toc52661355)  
 
@@ -94,7 +94,7 @@ Docente: *Mag. Patrick Cuadros Quiroga*
 
 # **Informe de Visión**
 
-## 1. Introducción
+<h2 id="_Toc52661346">1. Introducción</h2>
 
 <p style="text-align: justify;">
     En un entorno académico cada vez más complejo, donde el rendimiento estudiantil y la eficiencia de los programas educativos son fundamentales para el éxito de una institución, la capacidad de analizar y comprender datos detallados es crucial. La Plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) surge como una respuesta innovadora a la necesidad de los actuales y futuros estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna de obtener una visión clara y profunda del desempeño académico que presenta la carrera.
@@ -171,7 +171,7 @@ PAMIS está diseñada para ser una herramienta intuitiva y de fácil acceso, con
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 
-## 2. Posicionamiento
+<h2 id="_Toc52661347">2. Posicionamiento</h2>
 
 ### 2.1 Oportunidad de negocio
 
@@ -207,8 +207,7 @@ Al proporcionar información precisa y oportuna, PAMIS puede ayudar a los tomado
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-
-## 3. Descripción de los interesados y usuarios
+<h2 id="_Toc52661348">3. Descripción de los interesados y usuarios</h2>
 
 ### 3.1 Resumen de los interesados
 <p style="text-align: justify;">
@@ -284,7 +283,7 @@ Dado que PAMIS es una plataforma basada en la web, los usuarios requieren un acc
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 4. Vista General del Producto
+<h2 id="_Toc52661349">4. Vista General del Producto</h2>
 
 ### 4.1 Perspectiva del producto
 <p style="text-align: justify;">
@@ -330,63 +329,59 @@ operativos, de personal y del ambiente, llegando a un total acumulado de S/27,18
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 5. Alcance y objetivos del proyecto
+<h2 id="_Toc52661350">5. Características del Producto</h2>
 
-### 5.1 Objetivos específicos
 
-### 5.2 Requisitos funcionales
-
-### 5.3 Requisitos no funcionales
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 6. Plan de desarrollo
+<h2 id="_Toc52661351">6. Restricciones</h2>
 
-### 6.1 Cronograma del proyecto
 
-### 6.2 Recursos necesarios
-
-### 6.3 Estrategia de implementación
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 7. Análisis de riesgos
+<h2 id="_Toc52661352">7. Rangos de Calidad</h2>
 
-### 7.1 Identificación de riesgos
 
-### 7.2 Evaluación de riesgos
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 8. Plan de pruebas
+<h2 id="_Toc52661353">8. Precedencia y Prioridad</h2>
 
-### 8.1 Estrategia de pruebas
 
-### 8.2 Casos de prueba
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 9. Documentación del usuario
+<h2 id="_Toc52661354">9. Otros Requerimientos del Producto</h2>
 
-### 9.1 Manual de usuario
+### 9.1 Estándares legales
 
-### 9.2 Guía rápida
+### 9.2 Estándares de comunicación
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+### 9.3 Estándares de complimiento de la plataforma
 
-## 10. Plan de mantenimiento
-
-### 10.1 Estrategia de mantenimiento
-
-### 10.2 Plan de actualización
+### 9.4 Estándares de calidad y seguridad
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 11. Conclusiones
+<h2 id="_Toc52661355">10. Conclusiones</h2>
 
-## 12. Recomendaciones
 
-## 13. Bibliografía
 
-## 14. Webgrafía
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
+<h2 id="_Toc52661356">11. Recomendaciones</h2>
+
+
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
+<h2 id="_Toc52661357">12. Bibliografía</h2>
+
+
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
+<h2 id="_Toc52661358">13. Webgrafía</h2>
 
