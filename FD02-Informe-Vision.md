@@ -191,6 +191,23 @@ PAMIS puede ayudar a identificar las necesidades individuales de los estudiantes
 
 ### 2.2 Definición del problema
 
+* **Falta de herramientas analíticas:**
+<p style="text-align: justify;">
+ Las instituciones educativas suelen carecer de herramientas especializadas para analizar grandes volúmenes de datos académicos de manera eficiente.
+</p>
+
+* **Dificultad para identificar patrones y tendencias:**
+<p style="text-align: justify;">
+La identificación de patrones y tendencias en los datos académicos puede ser compleja y requiere de habilidades estadísticas avanzadas.
+</p>
+
+
+* **Toma de decisiones basada en intuición:** 
+<p style="text-align: justify;">
+En muchos casos, las decisiones relacionadas con la educación se toman en base a la experiencia y la intuición, en lugar de datos objetivos.
+</p>
+
+
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 ## 3. Descripción de los interesados y usuarios
