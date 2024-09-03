@@ -269,19 +269,29 @@ PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) será
 <p>PAMIS proporcionará:</p>
 <ul style="text-align: justify;">
     <li>Dashboard interactivo: Una interfaz principal que permitirá a los estudiantes visualizar de manera rápida y comprensible los principales indicadores de su rendimiento académico.</li>
-    <li>Cinco reportes detallados: Cada reporte se enfocará en aspectos clave del desempeño académico, tomando en cuenta los objetivos estratégicos del proyecto. Los reportes incluirán:</li>
-    <li>Interactividad avanzada: Posibilidad de filtrar y segmentar los datos en función de criterios específicos (como curso, semestre, o año académico).
+    <li>Cinco reportes detallados: Cada reporte se enfocará en aspectos clave del desempeño académico, tomando en cuenta los objetivos estratégicos del proyecto. Los reportes incluirán:
     <ol><li>Análisis de matrículas: Datos sobre las tasas de matriculación y su evolución a lo largo del tiempo.</li><li>Desempeño académico por curso: Visualización de las tasas de aprobación y notas máximas y mínimas por curso.</li><li>Análisis comparativo entre cohortes: Comparaciones de rendimiento entre diferentes generaciones de estudiantes.</li><li>Identificación de áreas críticas: Detección de cursos o áreas con alto índice de desaprobación.
 </li><li>Análisis de matriculados por docente: Matriculados por docente y la probabilidad de aprobar o desaprobar con él.</li>
     </ol></li>
+    <li>Interactividad avanzada: Posibilidad de filtrar y segmentar los datos en función de criterios específicos (como curso, semestre, o año académico).
+    </li>
     <li>Exportación de reportes: Los usuarios podrán exportar los reportes en formatos accesibles, como PDF o Excel, para su análisis posterior.</li>
 </ul>
 
 ### 4.3 Suposiciones y dependencias
 
+<ul style="text-align: justify;">
+    <li>Disponibilidad de datos precisos y actualizados: El éxito de la plataforma dependerá de la calidad y precisión de los datos ingresados en el sistema.</li>
+    <li>Apoyo institucional: Se asume que la institución proporcionará el apoyo necesario para la implementación y el mantenimiento de la plataforma, incluyendo acceso a la base de datos y retroalimentación continua.</li>
+    <li> Limitaciones del software: Como la aplicación se basa en PowerBI, algunas funcionalidades avanzadas pueden estar limitadas por las capacidades inherentes de la plataforma.
+ </li>
+    <li> Modificaciones en los requerimientos de la plataforma: Referido a la posibilidad de que los requisitos y especificaciones de la plataforma cambien durante el proceso de desarrollo. Las modificaciones repentinas pueden afectar la planificación, el diseño y la implementación del proyecto, lo que potencialmente conduce a retrasos, confusiones y aumentos en los costos. </li>
+</ul>
+
 ### 4.4 Costos y precios
 
 ### 4.5 Licenciamiento e instalación 
+<p style="text-align: justify;">PAMIS será accesible a través de PowerBI como una plataforma web, lo que permitirá a los usuarios acceder a los dashboards y reportes sin necesidad de realizar una instalación local. Sin embargo, será necesario que los usuarios acepten los términos y condiciones de uso de PowerBI, así como cumplir con los requisitos de licencia de la herramienta para utilizar las funcionalidades completas del sistema en la web.</p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
