@@ -258,11 +258,30 @@ Dado que PAMIS es una plataforma basada en la web, los usuarios requieren un acc
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-## 4. Estudio de Factibilidad
+## 4. Vista General del Producto
 
-### 4.1 Análisis de costos y beneficios
+### 4.1 Perspectiva del producto
+<p style="text-align: justify;">
+PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) será una herramienta analítica desplegada en PowerBI, diseñada para proporcionar a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna un análisis detallado de su rendimiento académico. La plataforma busca facilitar la comprensión de patrones y tendencias que permitan una toma de decisiones informada y mejorar el desempeño académico.
+</p>
 
-### 4.2 Riesgos y viabilidad técnica
+### 4.2 Resumen de capacidades
+<p>PAMIS proporcionará:</p>
+<ul style="text-align: justify;">
+    <li>Dashboard interactivo: Una interfaz principal que permitirá a los estudiantes visualizar de manera rápida y comprensible los principales indicadores de su rendimiento académico.</li>
+    <li>Cinco reportes detallados: Cada reporte se enfocará en aspectos clave del desempeño académico, tomando en cuenta los objetivos estratégicos del proyecto. Los reportes incluirán:</li>
+    <li>Interactividad avanzada: Posibilidad de filtrar y segmentar los datos en función de criterios específicos (como curso, semestre, o año académico).
+    <ol><li>Análisis de matrículas: Datos sobre las tasas de matriculación y su evolución a lo largo del tiempo.</li><li>Desempeño académico por curso: Visualización de las tasas de aprobación y notas máximas y mínimas por curso.</li><li>Análisis comparativo entre cohortes: Comparaciones de rendimiento entre diferentes generaciones de estudiantes.</li><li>Identificación de áreas críticas: Detección de cursos o áreas con alto índice de desaprobación.
+</li><li>Análisis de matriculados por docente: Matriculados por docente y la probabilidad de aprobar o desaprobar con él.</li>
+    </ol></li>
+    <li>Exportación de reportes: Los usuarios podrán exportar los reportes en formatos accesibles, como PDF o Excel, para su análisis posterior.</li>
+</ul>
+
+### 4.3 Suposiciones y dependencias
+
+### 4.4 Costos y precios
+
+### 4.5 Licenciamiento e instalación 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
