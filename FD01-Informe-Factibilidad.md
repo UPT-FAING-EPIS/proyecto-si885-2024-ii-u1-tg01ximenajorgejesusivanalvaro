@@ -197,12 +197,17 @@ Versión *{1.0}*
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
 
         Beneficios del Producto: El proyecto PAMIS proporcionará una plataforma analítica que permite a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna acceder a estadísticas detalladas sobre los cursos. Esto mejorará la toma de decisiones académicas, optimizará el rendimiento estudiantil y proporcionará una experiencia educativa más personalizada. Además, al centralizar la información, se facilitará la planificación académica y se reducirá la carga administrativa asociada con la consulta y manejo de datos.
+        
         Impacto en los Usuarios: Los estudiantes se beneficiarán al poder acceder a datos precisos y personalizados sobre su rendimiento académico. Esto les permitirá tomar decisiones más informadas sobre su trayectoria educativa, lo que puede resultar en un mejor rendimiento académico y una planificación más efectiva.
 
 
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
+        Cumplimiento con Regulaciones de Protección de Datos: El proyecto PAMIS deberá cumplir con las normativas vigentes de protección de datos personales, como la Ley N° 29733, Ley de Protección de Datos Personales del Perú. Esta ley regula el tratamiento de datos personales para garantizar la privacidad de la información de los estudiantes. La plataforma deberá implementar medidas de seguridad que protejan los datos académicos y personales de los estudiantes para evitar cualquier tipo de vulnerabilidad o brecha de seguridad.
+
+        Leyes de Propiedad Intelectual: La plataforma debe respetar las leyes de propiedad intelectual, asegurando que cualquier software, código o tecnología utilizada cuente con las licencias correspondientes. Esto incluye el uso de herramientas de software como Visual Studio Code y Power BI, las cuales tienen términos de uso que deben ser cumplidos.
+
+        Normativas internas de la Universidad: Dado que el proyecto manejará información académica y administrativa de la Universidad Privada de Tacna, es crucial que todas las actividades de desarrollo y operación del sistema se alineen estrictamente con las normativas internas de la universidad. Esto incluye cumplir con las políticas de privacidad, seguridad de la información y cualquier otra regulación interna que rija el manejo y protección de los datos universitarios.
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
