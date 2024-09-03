@@ -43,233 +43,350 @@ Docente: *Mag. Patrick Cuadros Quiroga*
 ## **Índice General**
 
 1. [Descripción del Proyecto](#_Toc52661346)  
-   1.1 Propósito  
-   1.2 Alcance  
-   1.3 Definiciones, Siglas y Abreviaturas  
-   1.4 Referencias  
-   1.5 Visión General  
+   1.1 Nombre del proyecto  
+   1.2 Duración del proyecto  
+   1.3 Descripción  
+   1.4 Objetivos  
 
 2. [Riesgos](#_Toc52661347)  
-   2.1 Oportunidad de negocio  
-   2.2 Definición del problema  
 
-3. [Análisis de Situación Actual](#_Toc52661348)  
-   3.1 Resumen de los interesados  
-   3.2 Resumen de los usuarios  
-   3.3 Entorno de usuario  
-   3.4 Perfiles de los interesados  
-   3.5 Perfiles de los Usuarios  
-   3.6 Necesidades de los interesados y usuarios  
+3. [Análisis de la Situación Actual](#_Toc52661348)  
+   3.1 Planteamiento del problema  
+   3.2 Consideraciones de hardware y software  
 
 4. [Estudio de Factibilidad](#_Toc52661349)  
-   4.1 Factibilidad Técnica
-   4.2 Factibilidad Económica
-   4.3 Factibilidad Operativa
-   4.4 Factibilidad Legal
-   4.5 Factibilidad Social
-   4.6 Factibilidad Ambiental
+   4.1 Factibilidad Ténica  
+   4.2 Factibilidad Económica  
+   4.3 Factibilidad Operativa  
+   4.4 Factibilidad Legal  
+   4.5 Factibilidad Social  
+   4.6 Factibilidad Ambiental  
 
 5. [Análisis Financiero](#_Toc52661350)  
 
-6. [Conclusiones](#_Toc52661355)  
+6. [Conclusiones](#_Toc52661351)  
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 
-**<u>Informe de Factibilidad</u>**
+# **Informe de Factibilidad**
 
-1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
+## 1. Descripción del Proyecto <a id="_Toc52661346"></a>
 
-    1.1. Nombre del proyecto
+### 1.1. Nombre del proyecto
 
-        Plataforma de Análisis de Matriculados en Ingeniería de Sistemas.
+<p style="text-align: justify;">
+Plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna - PAMIS.
+</p>
 
-    1.2. Duración del proyecto
-        
-        La duración del proyecto abarcará todo el ciclo académico, concluyendo en la segunda semana de diciembre.
+### 1.2. Duración del proyecto
 
-    1.3. Descripción
-        
-        La plataforma de Análisis de Matriculados en Ingeniería de Sistemas (PAMIS) es la solución propuesta ante la situación de la exigencia del rendimiento estudiantil y la eficiencia de los programas educativos, situándose en un entorno académico cada vez más complejo, pues es de vital importancia el análisis y comprensión de datos detalladamente. PAMIS permite la toma de decisiones informadas basadas en datos reales, de esta forma se optimizan los resultados académicos y se mejora la calidad educativa de la universidad, siendo una gran ayuda para la administración y el cuerpo docente.
+<strong>Inicio:</strong> 24 de Agosto del 2024  
+<strong>Fin:</strong> 13 de Diciembre del 2024
 
-    1.4. Objetivos
+El proyecto tendrá una duración aproximada de 17 semanas.
 
-        1.4.1 Objetivo general
-            Proporcionar una plataforma tecnológica que permita a los estudiantes ya la Escuela Profesional de Ingeniería de Sistemas analizar el desempeño académico de manera eficiente, facilitando la toma de decisiones estratégicas basadas en datos concretos y óptimos.
+### 1.3. Descripción
 
-        1.4.2 Objetivos Específicos
-            Facilitar el análisis académico mediante una plataforma que permita a los usuarios examinar datos de matriculación y rendimiento académico, identificando tendencias y patrones.
+<p style="text-align: justify;">
+Este proyecto se centra en desarrollar una herramienta analítica para la Escuela Profesional de Ingeniería de Sistemas de la UPT. Su principal propósito es permitir a los estudiantes acceder a estadísticas detalladas sobre los cursos. Al ofrecer datos como tasas de aprobación, índices de deserción y distribución de calificaciones, la herramienta ayudará a los estudiantes a tomar decisiones informadas sobre su trayectoria académica. Cubriendo la necesidad de mejorar la experiencia educativa mediante el acceso a información relevante y personalizada.
+</p>
 
-            Ofrecer informes y recomendaciones basados en análisis estadísticos que guíen la toma de decisiones estratégicas para los estudiantes.
+### 1.4. Objetivos
 
-            Ayudar a la institución a implementar estrategias que optimicen el rendimiento académico y aumenten las tasas de aprobación, esto mediante el análisis de datos y la identificación de áreas de mejora.
+#### 1.4.1. Objetivo general
+
+<p style="text-align: justify;">
+Desarrollar una plataforma de análisis de datos de matriculados en la carrera de ingeniería de sistemas para la universidad privada de Tacna que permita a sus estudiantes, acceder a estadísticas detalladas sobre los cursos, con el fin de mejorar la toma de decisiones académicas y optimizar su rendimiento.
+</p>
+
+#### 1.4.2. Objetivos Específicos
+
+
+- **Recopilar y procesar datos históricos de los cursos:**<p style="text-align: justify;">
+Se logrará obtener una base de datos confiable que contenga información relevante como tasas de aprobación, índices de deserción, y distribución de calificaciones para su posterior análisis y visualización.
+<p>
+
+- **Desarrollar una interfaz de usuario intuitiva:**<p style="text-align: justify;">Se diseñará una plataforma que permita a los estudiantes acceder fácilmente a las estadísticas de los cursos, facilitando la comprensión y el uso de la información para la toma de decisiones.
+<p>
+
+- **Implementar herramientas de visualización de datos:**<p style="text-align: justify;">Se integrarán gráficos y tablas interactivos que ayuden a identificar patrones y tendencias en el rendimiento de los cursos, proporcionando una visión clara y concisa a los estudiantes.
+<p>
+
+- **Generar informes personalizados:**<p style="text-align: justify;">Se permitirá a los estudiantes obtener informes específicos sobre los cursos de su interés, lo que contribuirá a una planificación académica más efectiva.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
+## 2. Riesgos <a id="_Toc52661347"></a>
 
-        Fallas técnicas: Problemas con la infraestructura tecnológica, como servidores, bases de datos o integraciones de software, que podrían afectar la disponibilidad y el rendimiento de la plataforma.
+- **Fallas técnicas:**<p style="text-align: justify;">Problemas con la infraestructura tecnológica, como servidores, bases de datos o integraciones de software, que podrían afectar la disponibilidad y el rendimiento de la plataforma.
+<p>
 
-        Corto tiempo para el desarrollo del proyecto: Significa que el plazo asignado para completar el desarrollo es demasiado corto para alcanzar los estándares de calidad y funcionalidad deseados. Esto podría generar presión excesiva en el equipo de desarrollo, lo que podría resultar en un producto final deficiente.
+- **Corto tiempo para el desarrollo del proyecto:**<p style="text-align: justify;">El plazo asignado para completar el desarrollo es demasiado corto para alcanzar los estándares de calidad y funcionalidad deseados, lo que podría generar presión excesiva en el equipo de desarrollo y resultar en un producto final deficiente.
+<p>
 
-        Disponibilidad limitada del personal: Se refiere a la posibilidad de que algunos miembros del equipo no estén disponibles debido a conflictos de horario, enfermedades, renuncias inesperadas u otros compromisos. La falta de personal puede provocar retrasos en el desarrollo, aumentar la carga de trabajo del resto del equipo y afectar la calidad del producto final.
+- **Disponibilidad limitada del personal:**<p style="text-align: justify;">La posibilidad de que algunos miembros del equipo no estén disponibles debido a conflictos de horario, enfermedades, renuncias inesperadas u otros compromisos, lo que puede provocar retrasos en el desarrollo, aumentar la carga de trabajo del resto del equipo y afectar la calidad del producto final.
+<p>
 
-        Sobrecarga de datos: Se refiere a la acumulación de grandes volúmenes de datos sin una estrategia clara para su manejo puede ralentizar el sistema y dificultar el análisis eficaz.
+- **Sobrecarga de datos:**<p style="text-align: justify;">La acumulación de grandes volúmenes de datos sin una estrategia clara para su manejo puede ralentizar el sistema y dificultar el análisis eficaz.
+<p>
 
-        Seguridad de datos: Significa las vulnerabilidades en la protección de datos personales y académicos, lo que podría resultar en brechas de seguridad y pérdida de confianza por parte de los usuarios.
+- **Seguridad de datos:**<p style="text-align: justify;">Las vulnerabilidades en la protección de datos personales y académicos, lo que podría resultar en brechas de seguridad y pérdida de confianza por parte de los usuarios.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-3. <span id="_Toc52661348" class="anchor"></span>**Análisis de la Situación actual**
+## 3. Análisis de la Situación Actual <a id="_Toc52661348"></a>
 
-    3.1. Planteamiento del problema
+### 3.1. Planteamiento del problema
 
+<p style="text-align: justify;">
+En la actualidad, los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna (UPT) enfrentan diversos desafíos en la gestión de su rendimiento académico. Estos desafíos incluyen la falta de herramientas adecuadas para acceder a estadísticas detalladas sobre los cursos, la dificultad para tomar decisiones informadas basadas en datos claros y la ausencia de una plataforma centralizada para visualizar su progreso académico.
+</p>
+
++ **Falta de acceso a información académica personalizada:**<p style="text-align: justify;">La escuela dispone de un sistema administrativo que gestiona las estadísticas académicas a nivel institucional. Sin embargo, los estudiantes no tienen acceso directo a una plataforma que les permita visualizar de manera clara y personalizada datos como tasas de aprobación, índices de deserción y distribución de calificaciones en los cursos que les interesan. Esto limita su capacidad para evaluar y planificar su trayectoria académica de manera efectiva.
+</p>
     
-    En la actualidad, los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna (UPT) enfrentan diversos desafíos en la gestión de su rendimiento académico. Estos desafíos incluyen la falta de herramientas adecuadas para acceder a estadísticas detalladas sobre los cursos, la dificultad para tomar decisiones informadas basadas en datos claros y la ausencia de una plataforma centralizada para visualizar su progreso académico.
-
-
-    + **Falta de acceso a información académica personalizada:** La escuela dispone de un sistema administrativo que gestiona las estadísticas académicas a nivel institucional. Sin embargo, los estudiantes no tienen acceso directo a una plataforma que les permita visualizar de manera clara y personalizada datos como tasas de aprobación, índices de deserción y distribución de calificaciones en los cursos que les interesan. Esto limita su capacidad para evaluar y planificar su trayectoria académica de manera efectiva.
++ __Dificultades para tomar decisiones informadas:__<p style="text-align: justify;">La carencia de herramientas accesibles y comprensibles para los estudiantes implica que deben tomar decisiones basadas en percepciones o información incompleta. Esta situación puede llevar a una planificación académica menos eficaz y a un rendimiento subóptimo en los cursos.
+</p>
     
-    + __Dificultades para tomar decisiones informadas:__ La carencia de herramientas accesibles y comprensibles para los estudiantes implica que deben tomar decisiones basadas en percepciones o información incompleta. Esta situación puede llevar a una planificación académica menos eficaz y a un rendimiento subóptimo en los cursos.
-    
-    + **Impacto en el rendimiento académico:** Sin acceso a una visión detallada y precisa de su rendimiento académico, los estudiantes pueden enfrentar dificultades para identificar áreas de mejora y ajustar su enfoque de estudio, lo que afecta negativamente su desempeño y progreso académico.
++ **Impacto en el rendimiento académico:**<p style="text-align: justify;">Sin acceso a una visión detallada y precisa de su rendimiento académico, los estudiantes pueden enfrentar dificultades para identificar áreas de mejora y ajustar su enfoque de estudio, lo que afecta negativamente su desempeño y progreso académico.
+</p>
 
-    + **Necesidad de una plataforma de visualización de datos**: Es fundamental desarrollar una herramienta analítica que permita a los estudiantes acceder a estadísticas relevantes y personalizadas sobre los cursos. Esta plataforma debería facilitar la toma de decisiones informadas, mejorar la planificación académica y optimizar el rendimiento académico de los estudiantes.
++ **Necesidad de una plataforma de visualización de datos:**<p style="text-align: justify;">Es fundamental desarrollar una herramienta analítica que permita a los estudiantes acceder a estadísticas relevantes y personalizadas sobre los cursos. Esta plataforma debería facilitar la toma de decisiones informadas, mejorar la planificación académica y optimizar el rendimiento académico de los estudiantes.
+</p>
 
+### 3.2. Consideraciones de hardware y software
 
-    3.2. Consideraciones de hardware y software
+<u>*Hardware*</u>
 
-    + **Sistema Operativo:** 
-    Los programas utilizados para el desarrollo de la aplicación web son compatibles con Windows y macOS. 
+**Computadora de Desarrollo:**
 
-    + **Visual Studio Code:** 
-    Es necesario instalar Visual Studio Code (versión 1.89), que es un entorno de desarrollo integrado (IDE) ligero y altamente personalizable. Se pueden agregar extensiones específicas para ayudar en el desarrollo del sistema. 
-    
-    + **Power BI:** 
-    Se usará para crear informes y gráficos interactivos, y dashboard; integrando datos de diversas fuentes para facilitar la toma de decisiones.
+<p style="text-align: justify;">
+Computadoras con hardware suficiente para ejecutar Visual Studio Code y diversos programas para la implementación del sistema. Se recomienda una computadora con al menos un procesador de cuatro núcleos, 8 GB de RAM y un disco duro sólido (SSD) para un rendimiento óptimo.
+</p>
 
+- Acer Nitro 5
+- MacBook Air 2017
+- HP Victus 15
+
+**Memoria RAM:**
+
+<p style="text-align: justify;">
+Visual Studio Code puede consumir recursos considerables, especialmente al compilar y ejecutar la aplicación. Por lo tanto, contar con suficiente memoria RAM es esencial para evitar la ralentización del sistema.
+</p>
+
+- 16 GB de RAM
+
+**Procesador:**
+
+<p style="text-align: justify;">
+El procesador de los equipos de trabajo debe ser altamente potente, con varios núcleos e hilos para procesar la información del software utilizado.
+</p>
+
+- Intel Core i5 12500H (12 núcleos y 8 hilos)
+
+**Tarjeta Gráfica:**
+
+<p style="text-align: justify;">
+Los equipos de trabajo deben contar con una GPU dedicada, necesaria para realizar cálculos paralelos de manera eficiente, acelerar el entrenamiento y ejecución de modelos de inteligencia artificial, mejorar la interactividad y el rendimiento de la aplicación, y facilitar el procesamiento de gráficos para visualizaciones de datos y elementos gráficos avanzados.
+</p>
+
+- Nvidia RTX 3050
+- Intel HD Graphics 6000 (1536 MB)
+
+<u>*Software*</u>
+
+- **Sistema Operativo:**<p style="text-align: justify;">
+Los programas utilizados para el desarrollo de la aplicación web son compatibles con Windows y macOS.
+</p>
+
+- **Visual Studio Code:**<p style="text-align: justify;">
+Es necesario instalar Visual Studio Code (versión 1.89), que es un entorno de desarrollo integrado (IDE) ligero y altamente personalizable. Se pueden agregar extensiones específicas para ayudar en el desarrollo del sistema.
+</p>
+
+- **Power BI:**<p style="text-align: justify;">
+Se usará para crear informes, gráficos interactivos y el dashboard principal; integrando datos de diversas fuentes para facilitar la toma de decisiones.
+</p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
+<h2 id="_Toc52661349">4. Estudio de Factibilidad</h2>
 
-    Describir los resultados que esperan alcanzar del estudio de factibilidad, las actividades que se realizaron para preparar la evaluación de factibilidad y por quien fue aprobado.
+### 4.1. Factibilidad Técnica
 
-    4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
+**Hardware Disponible**
 
-        El estudio de viabilidad técnica se enfoca en obtener un entendimiento de los recursos tecnológicos disponibles actualmente y su aplicabilidad a las necesidades que se espera tenga el proyecto. En el caso de tecnología informática esto implica una evaluación del hardware y software y como este puede cubrir las necesidades del sistema propuesto.
+- **Equipos de Desarrollo:** <p style="text-align: justify;">Se necesitan equipos de desarrollo capaces de ejecutar software de desarrollo web y herramientas de análisis de datos. Los materiales previamente mencionados cumplen con las especificaciones mínimas requeridas:
 
-        Realizar una evaluación de la tecnología actual existente y la posibilidad de utilizarla en el desarrollo e implantación del sistema.*
+  - *Procesador:* Intel Core i5 de 4 núcleos, útil para el manejo de tareas de programación, depuración y pruebas.
 
-        Describir acerca del hardware (equipos, servidor), software (aplicaciones, navegadores, sistemas operativos, dominio, internet, infraestructura de red física, etc.
+  - *Memoria RAM:* De 8 a 16 GB de memoria DDR4 expandible.
 
-    4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
+  - *Almacenamiento:* Disco duro sólido (SSD) para el sistema operativo. Esto asegura tiempos de carga cortos y un óptimo rendimiento general.
 
-        Se definieron los siguientes costos:
+  - *Tarjeta Gráfica:* Se usa la tarjeta gráfica integrada en el procesador Intel, pero también se puede hacer uso de una GPU dedicada como la Nvidia RTX 3050.
+</p>
 
-        4.2.1. Costos Generales
+**Software**
 
-                Tabla 01: En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00, véase la carpeta "media".
+- **Aplicaciones y Herramientas de Desarrollo:**
 
-        4.2.2. Costos operativos durante el desarrollo 
-        
-                Tabla 02: En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00, véase la carpeta "media".
+  - *Visual Studio Code:* Es el IDE principal para el desarrollo del proyecto, siendo compatible con los sistemas operativos Windows y macOS, ofreciendo extensiones que personalizan el entorno de trabajo.
 
-        4.2.3. Costos del ambiente
+  - *Power BI:* Esta herramienta es para la creación de dashboards y visualizaciones de datos interactivos, además de ser poderosa para los análisis de datos.
 
-                Tabla 03: En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00, véase la carpeta "media".
+  - *Sistemas Operativos:* Pueden funcionar bajo Windows y macOS.
+  
+  - *Navegadores Web:* La plataforma debe ser compatible con los navegadores web más conocidos y utilizados tales como Google Chrome, Mozilla Firefox, Microsoft Edge, etc.
 
-        4.2.4. Costos de personal
+**Infraestructura de Red**
 
-                Tabla 04: El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00, véase la carpeta "media".
+- **Conexión a Internet:** <p style="text-align: justify;">Una conexión de alta velocidad es de gran importancia, más aún con una arquitectura de nube o con servidores externos que aseguren la disponibilidad de la plataforma.
+</p>
 
-        4.2.5.  Costos totales del desarrollo del sistema
+### 4.2. Factibilidad Económica
 
-                Tabla 05: En Costos Totales se resume los subtotales de los costos generales, operativos, de personal y del ambiente, llegando a un total acumulado de S/ 27,180.00, véase la carpeta "media".
+Se definieron los siguientes costos:
 
+#### 4.2.1. Costos Generales
 
-    4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
+![costos-generales](./media/costos-generales.png)
 
-        Beneficios del Producto: El proyecto PAMIS proporcionará una plataforma analítica que permite a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna acceder a estadísticas detalladas sobre los cursos. Esto mejorará la toma de decisiones académicas, optimizará el rendimiento estudiantil y proporcionará una experiencia educativa más personalizada. Además, al centralizar la información, se facilitará la planificación académica y se reducirá la carga administrativa asociada con la consulta y manejo de datos.
-        
-        Impacto en los Usuarios: Los estudiantes se beneficiarán al poder acceder a datos precisos y personalizados sobre su rendimiento académico. Esto les permitirá tomar decisiones más informadas sobre su trayectoria educativa, lo que puede resultar en un mejor rendimiento académico y una planificación más efectiva.
+<center>
+<strong>Tabla 01:</strong> En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00
+</center>
 
+#### 4.2.2. Costos operativos durante el desarrollo 
 
-    4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
+![costos-operativos](./media/costos-operativos.png)
 
-        Cumplimiento con Regulaciones de Protección de Datos: El proyecto PAMIS deberá cumplir con las normativas vigentes de protección de datos personales, como la Ley N° 29733, Ley de Protección de Datos Personales del Perú. Esta ley regula el tratamiento de datos personales para garantizar la privacidad de la información de los estudiantes. La plataforma deberá implementar medidas de seguridad que protejan los datos académicos y personales de los estudiantes para evitar cualquier tipo de vulnerabilidad o brecha de seguridad.
+<center>
+<strong>Tabla 02:</strong> En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00
+</center>
 
-        Leyes de Propiedad Intelectual: La plataforma debe respetar las leyes de propiedad intelectual, asegurando que cualquier software, código o tecnología utilizada cuente con las licencias correspondientes. Esto incluye el uso de herramientas de software como Visual Studio Code y Power BI, las cuales tienen términos de uso que deben ser cumplidos.
+#### 4.2.3. Costos del ambiente
 
-        Normativas internas de la Universidad: Dado que el proyecto manejará información académica y administrativa de la Universidad Privada de Tacna, es crucial que todas las actividades de desarrollo y operación del sistema se alineen estrictamente con las normativas internas de la universidad. Esto incluye cumplir con las políticas de privacidad, seguridad de la información y cualquier otra regulación interna que rija el manejo y protección de los datos universitarios.
+![costos-ambientales](./media/costos-ambientales.png)
 
-    4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
+<center>
+<strong>Tabla 03:</strong> En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00
+</center>
 
-        El proyecto PAMIS se alinea con los valores y códigos de conducta de la UPT y del entorno social en el que opera. Al proporcionar a los estudiantes una herramienta que les permita tomar decisiones académicas informadas, el proyecto contribuirá al desarrollo académico y personal de los estudiantes, promoviendo una cultura de mejora continua y éxito académico.
-        
-        Además, al enfocarse en la personalización de la experiencia educativa, el proyecto responde a las necesidades y expectativas sociales actuales de acceso a la información y toma de decisiones basadas en datos.
+#### 4.2.4. Costos de personal
 
+![costos-personal](./media/costos-personal.png)
 
-    4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
+<center>
+<strong>Tabla 04:</strong> El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00
+</center>
 
-        Desde una perspectiva ambiental, el proyecto PAMIS tendrá un impacto mínimo en el medio ambiente, ya que se trata de una solución digital que no requiere de infraestructura física adicional. 
-        
-        El proyecto contribuirá al compromiso de la UPT con la sostenibilidad al minimizar el uso de papel y otros recursos físicos, promoviendo la digitalización y el acceso en línea a la información académica.
+#### 4.2.5.  Costos totales del desarrollo del sistema
 
+![costos-totales](./media/costos-totales.png)
+
+<center>
+<strong>Tabla 05:</strong> En Costos Totales se resume los subtotales de los costos generales, operativos, de personal y del ambiente, llegando a un total acumulado de S/ 27,180.00
+</center>
+<br>
+
+### 4.3. Factibilidad Operativa
+
+- **Beneficios del Producto:**<p style="text-align: justify;"> El proyecto PAMIS proporcionará una plataforma analítica que permite a los estudiantes de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Privada de Tacna acceder a estadísticas detalladas sobre los cursos. Esto mejorará la toma de decisiones académicas, optimizará el rendimiento estudiantil y proporcionará una experiencia educativa más personalizada. Además, al centralizar la información, se facilitará la planificación académica y se reducirá la carga administrativa asociada con la consulta y manejo de datos.
+</p>  
+
+- **Impacto en los Usuarios:**<p style="text-align: justify;"> Los estudiantes se beneficiarán al poder acceder a datos precisos y personalizados sobre su rendimiento académico. Esto les permitirá tomar decisiones más informadas sobre su trayectoria educativa, lo que puede resultar en un mejor rendimiento académico y una planificación más efectiva.
+</p>
+
+### 4.4. Factibilidad Legal
+
+- **Cumplimiento con Regulaciones de Protección de Datos:**<p style="text-align: justify;">  El proyecto PAMIS deberá cumplir con las normativas vigentes de protección de datos personales, como la Ley N° 29733, Ley de Protección de Datos Personales del Perú. Esta ley regula el tratamiento de datos personales para garantizar la privacidad de la información de los estudiantes. La plataforma deberá implementar medidas de seguridad que protejan los datos académicos y personales de los estudiantes para evitar cualquier tipo de vulnerabilidad o brecha de seguridad.
+</p>
+
+- **Leyes de Propiedad Intelectual:**<p style="text-align: justify;">  La plataforma debe respetar las leyes de propiedad intelectual, asegurando que cualquier software, código o tecnología utilizada cuente con las licencias correspondientes. Esto incluye el uso de herramientas de software como Visual Studio Code y Power BI, las cuales tienen términos de uso que deben ser cumplidos.
+</p>
+
+- **Normativas internas de la Universidad:**<p style="text-align: justify;">  Dado que el proyecto manejará información académica y administrativa de la Universidad Privada de Tacna, es crucial que todas las actividades de desarrollo y operación del sistema se alineen estrictamente con las normativas internas de la universidad. Esto incluye cumplir con las políticas de privacidad, seguridad de la información y cualquier otra regulación interna que rija el manejo y protección de los datos universitarios.
+</p>
+
+### 4.5. Factibilidad Social 
+
+<p style="text-align: justify;"> 
+El proyecto PAMIS se alinea con los valores y códigos de conducta de la UPT y del entorno social en el que opera. Al proporcionar a los estudiantes una herramienta que les permita tomar decisiones académicas informadas, el proyecto contribuirá al desarrollo académico y personal de los estudiantes, promoviendo una cultura de mejora continua y éxito académico.
+</p>
+
+<p style="text-align: justify;"> 
+Además, al enfocarse en la personalización de la experiencia educativa, el proyecto responde a las necesidades y expectativas sociales actuales de acceso a la información y toma de decisiones basadas en datos.
+</p>
+
+### 4.6. Factibilidad Ambiental
+
+<p style="text-align: justify;"> 
+Desde una perspectiva ambiental, el proyecto PAMIS tendrá un impacto mínimo en el medio ambiente, ya que se trata de una solución digital que no requiere de infraestructura física adicional. 
+</p>
+
+<p style="text-align: justify;"> 
+El proyecto contribuirá al compromiso de la UPT con la sostenibilidad al minimizar el uso de papel y otros recursos físicos, promoviendo la digitalización y el acceso en línea a la información académica.
+</p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-5. <span id="_Toc52661356" class="anchor"></span>**Análisis Financiero**
+<h2 id="_Toc52661350">5. Análisis Financiero</h2>
 
-    El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
-    Se tiene que estimar financieramente el resultado del proyecto.
+El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
 
-    5.1. Justificación de la Inversión
+Se tiene que estimar financieramente el resultado del proyecto.
 
-        5.1.1. Beneficios del Proyecto
+5.1. Justificación de la Inversión
 
-            El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
-            El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            Describir beneficios tangibles e intangibles*
-            Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-            Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
->
-            Ejemplo de beneficios:
+5.1.1. Beneficios del Proyecto
 
-            - Mejoras en la eficiencia del área bajo estudio.
-            - Reducción de personal.
-            - Reducción de futuras inversiones y costos.
-            - Disponibilidad del recurso humano.
-            - Mejoras en planeación, control y uso de recursos.
-            - Suministro oportuno de insumos para las operaciones.
-            - Cumplimiento de requerimientos gubernamentales.
-            - Toma acertada de decisiones.
-            - Disponibilidad de información apropiada.
-            - Aumento en la confiabilidad de la información.
-            - Mejor servicio al cliente externo e interno
-            - Logro de ventajas competitivas.
-            - Valor agregado a un producto de la compañía.
-        
-        5.1.2. Criterios de Inversión
+El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
 
-            5.1.2.1. Relación Beneficio/Costo (B/C)
-
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
-
-            5.1.2.2. Valor Actual Neto (VAN)
+El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
             
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+Describir beneficios tangibles e intangibles*
+Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
+Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
+>
+Ejemplo de beneficios:
 
-            5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
+- Mejoras en la eficiencia del área bajo estudio.
+- Reducción de personal.
+- Reducción de futuras inversiones y costos.
+- Disponibilidad del recurso humano.
+- Mejoras en planeación, control y uso de recursos.
+- Suministro oportuno de insumos para las operaciones.
+            
+- Cumplimiento de requerimientos gubernamentales.
+- Toma acertada de decisiones.
+- Disponibilidad de información apropiada.
+- Aumento en la confiabilidad de la información.
+- Mejor servicio al cliente externo e interno
+- Logro de ventajas competitivas.
+- Valor agregado a un producto de la compañía.
+        
+5.1.2. Criterios de Inversión
 
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
+5.1.2.1. Relación Beneficio/Costo (B/C)
+
+En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
+                
+Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
+                
+El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
+
+5.1.2.2. Valor Actual Neto (VAN)
+            
+Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+
+5.1.2.3 Tasa Interna de Retorno (TIR)*
+
+Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
+
+Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
+<h2 id="_Toc52661351">6. Conclusiones</h2>
 
 Explicar los resultados del análisis de factibilidad que nos indican si el proyecto es viable y factible.
