@@ -250,7 +250,10 @@ Se definieron los siguientes costos:
 
 #### 4.2.1. Costos Generales
 
-![costos-generales](./media/costos-generales.png)
+<center>
+
+![costos-generales](./media/Costos-Generales.png)
+</center>
 
 <center>
 <strong>Tabla 01:</strong> En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00
@@ -258,7 +261,10 @@ Se definieron los siguientes costos:
 
 #### 4.2.2. Costos operativos durante el desarrollo 
 
-![costos-operativos](./media/costos-operativos.png)
+<center>
+
+![costos-operativos](./media/Costos-Operativos.png)
+</center>
 
 <center>
 <strong>Tabla 02:</strong> En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00
@@ -266,7 +272,10 @@ Se definieron los siguientes costos:
 
 #### 4.2.3. Costos del ambiente
 
-![costos-ambientales](./media/costos-ambientales.png)
+<center>
+
+![costos-ambientales](./media/Costos-Ambientales.png)
+</center>
 
 <center>
 <strong>Tabla 03:</strong> En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00
@@ -274,7 +283,10 @@ Se definieron los siguientes costos:
 
 #### 4.2.4. Costos de personal
 
-![costos-personal](./media/costos-personal.png)
+<center>
+
+![costos-personal](./media/Costos-Personal.png)
+</center>
 
 <center>
 <strong>Tabla 04:</strong> El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00
@@ -282,7 +294,10 @@ Se definieron los siguientes costos:
 
 #### 4.2.5.  Costos totales del desarrollo del sistema
 
-![costos-totales](./media/costos-totales.png)
+<center>
+
+![costos-totales](./media/Costos-Totales.png)
+</center>
 
 <center>
 <strong>Tabla 05:</strong> En Costos Totales se resume los subtotales de los costos generales, operativos, de personal y del ambiente, llegando a un total acumulado de S/ 27,180.00
