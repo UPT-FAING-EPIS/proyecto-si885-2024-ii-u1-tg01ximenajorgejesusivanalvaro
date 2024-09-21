@@ -430,9 +430,14 @@ Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de
 
 <h2 id="_Toc52661357">12. Bibliografía</h2>
 
-
+<p style="text-align: justify;">Salazar Cardona, J., & Angarita García, D. (2018). Aplicación de análisis de datos en una institución de educación superior para apoyar la toma de decisiones en un entorno Open Data. Institución Universitaria EAM. https://www.researchgate.net/publication/351512869_Aplicacion_de_analisis_de_datos_en_una_institucion_de_educacion_superior_para_apoyar_la_toma_de_decisiones_en_un_entorno_Open_Data </p>
+<p style="text-align: justify;">Externadista, C. V. (2023, 17 mayo). El potencial de la analítica de datos y el big data en la educación superior. Comunidad Virtual Externadista. https://micomunidadvirtual.uexternado.edu.co/el-potencial-de-la-analitica-de-datos-y-el-big-data-en-la-educacion-superior/ </p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 <h2 id="_Toc52661358">13. Webgrafía</h2>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
 
