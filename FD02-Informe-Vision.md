@@ -394,11 +394,19 @@ Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de
 
 ### 9.1 Estándares legales
 
+<p style="text-align: justify;">Cumplimiento con las normativas nacionales e internacionales sobre protección de datos y privacidad de los usuarios. Además, asegurarse de que el sistema cumple con las leyes de propiedad intelectual y los derechos relacionados con el uso de software libre.</p>
+
 ### 9.2 Estándares de comunicación
+
+<p style="text-align: justify;"></p>
 
 ### 9.3 Estándares de complimiento de la plataforma
 
+<p style="text-align: justify;"></p>
+
 ### 9.4 Estándares de calidad y seguridad
+
+<p style="text-align: justify;"></p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
