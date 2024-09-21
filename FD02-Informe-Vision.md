@@ -333,7 +333,14 @@ Los costos incluirán desarrollo de la aplicación en Power BI. El servicio ser�
 
 <h2 id="_Toc52661350">5. Características del Producto</h2>
 
-
+<ul style="text-align: justify;">
+    <li><strong>Dashboard interactivo:</strong>Proporciona una visión general de los indicadores clave de rendimiento académico, accesible y comprensible para los usuarios.
+ </li>
+    <li><strong>Cinco reportes detallados:</strong>Cada uno enfocado en aspectos específicos del desempeño académico, diseñados para proporcionar insights estratégicos.
+ </li>
+    <li><strong></strong></li>
+    <li><strong></strong> </li>
+</ul>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
