@@ -423,7 +423,21 @@ Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 <h2 id="_Toc52661356">11. Recomendaciones</h2>
+Se recomienda lo siguiente para el buen funcionamiento del sistema e implementación de actualizaciones a futuro.
 
+<br>
+
+- Involucrar a los usuarios claves en el desarrollo: Es vital que tanto los estudiantes como los docentes y administradores sean parte activa del proceso de desarrollo y mejoras continuas de la plataforma. Realizar encuestas periódicas y sesiones de feedback permitirá adaptar las funcionalidades de PAMIS a las necesidades reales de sus usuarios.
+
+- Asegurar la actualización constante de los datos académicos: Para mantener la precisión de los análisis y reportes, es fundamental que los datos académicos se actualicen de manera regular y automática. Se recomienda establecer un proceso de sincronización frecuente con los sistemas de gestión de la universidad para asegurar que los datos estén actualizados.
+
+- Optimizar el rendimientos para grandes volúmenes de datos: A medida que crece el uso de la plataforma y se agregan más cohortes y años académicos, se recomienda monitorear y ajustar el rendimiento del sistema. Asegurarse de que el tiempo de carga y respuesta siga siendo eficiente es clave para la satisfacción del usuario.
+
+- Monitorear y evaluar el impacto educativo de PAMIS: Realizar evaluaciones periódicas sobre cómo el uso de la plataforma está impactando en la toma de decisiones académicas y en el rendimiento de los estudiantes. Esto permitirá ajustar las funcionalidades y enfoques del sistema para maximizar los resultados.
+
+- Implementar métricas de éxito específicas: Se recomienda definir y seguir métricas clave de rendimiento (KPIs) que midan el éxito de la plataforma. Estas métricas pueden incluir la satisfacción de los usuarios, la tasa de uso de la plataforma, y la mejora en el rendimiento académico después de la implementación de PAMIS.
+
+- Garantizar la seguridad y privacidad de los datos: Asegurar que todos los datos académicos estén protegidos con medidas de seguridad robustas es fundamental para mantener la confianza de los usuarios. Se recomienda implementar controles de acceso estrictos y encriptación de datos para proteger la información personal y académica de los estudiantes.
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
