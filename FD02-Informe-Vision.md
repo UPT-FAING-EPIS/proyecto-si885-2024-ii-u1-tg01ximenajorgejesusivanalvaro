@@ -398,7 +398,7 @@ Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de
 
 ### 9.2 Estándares de comunicación
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Asegurar que el producto se adapte a las especificaciones y normativas de las plataformas en las que se implemente, garantizando una alta disponibilidad y un rendimiento óptimo. Esto incluye la compatibilidad con sistemas operativos y navegadores modernos, así como la fiabilidad del servicio bajo diferentes cargas de trabajo.</p>
 
 ### 9.3 Estándares de complimiento de la plataforma
 
