@@ -436,8 +436,9 @@ Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 <h2 id="_Toc52661358">13. Webgrafía</h2>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Análisis de datos en educación superior: convierte información en acciones | Ellucian. (s. f.). Ellucian América Latina y el Caribe. https://www.ellucian.com/es/ideas/analisis-de-datos-en-la-educacion-superior-todo-lo-que-ne </p>
+<p style="text-align: justify;">cesitas-para-convertir-la HPI International. (2024, 8 enero). Cómo la analítica de datos está transformando la educación superior.  https://es.linkedin.com/pulse/c%C3%B3mo-la-anal%C3%ADtica-de-datos-est%C3%A1-transfor </p>
+<p style="text-align: justify;">mando-educaci%C3%B3n-superior-7vkhe Power BI para el nivel educativo. (2021, 24 junio). https://community.fabric.microsoft.com/t5/Translated-Spanish-Desktop/Power-BI-para-el-nivel </p>
+<p style="text-align: justify;">-educativo/td-p/1919004 Tipos de análisis de datos en educación superior y claves para el éxito  | Virtual Ed Global. (s. f.). Virtual Ed Global. https://virtualedglobal.com/blog/tipos-de-analisis-de-datos-en-educacion-superior-y-claves-para-el-exito 
+</p>
 
