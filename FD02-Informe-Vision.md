@@ -355,9 +355,9 @@ Los costos incluirán desarrollo de la aplicación en Power BI. El servicio ser�
  </li>
     <li>Soporte legal o administrativo,  la plataforma no incluirá asistencia legal o el soporte administrativo fuera del análisis de datos académicos, dejando fuera cualquier tipo de gestión administrativa.
 </li>
-    <li>
+    <li>Limitaciones de recursos, debido a  que la plataforma se desarrollará en PowerBI, todo se realizará en base a las funcionalidades disponibles en esta herramienta. Cualquier personalización fuera de las capacidades estándar de PowerBI podría requerir un desarrollo adicional, lo cual podría estar fuera del alcance del proyecto.
 </li>
-    <li>
+    <li>La plataforma PAMIS estará diseñada para un entorno de escritorio a través de PowerBI, lo que podría limitar su accesibilidad y usabilidad en dispositivos móviles.
 </li>
 </ul>
 
