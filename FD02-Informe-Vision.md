@@ -317,11 +317,13 @@ PAMIS (Plataforma de Análisis de Matriculados en Ingeniería de Sistemas) será
 Los costos incluirán desarrollo de la aplicación en Power BI. El servicio será gratuito para los estudiantes.
 </p>
 
-![Costos-Totales](./media/Costos-Totales.png)
+<center>
+
+![costos-totales](./media/Costos-Totales.png)
+</center>
 
 <center>
-<strong>Tabla 01:</strong> En Costos Totales se resume los subtotales de los costos generales,
-operativos, de personal y del ambiente, llegando a un total acumulado de S/27,180.00
+<strong>Tabla 01:</strong> En Costos Totales se resume los subtotales de los costos generales, de personal y del ambiente, llegando a un total acumulado de S/ 10,533.00
 </center>
 
 ### 4.5 Licenciamiento e instalación 
