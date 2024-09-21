@@ -381,24 +381,47 @@ Ejemplo de beneficios:
 - Valor agregado a un producto de la compañía.
         
 5.1.2. Criterios de Inversión
+<center>
 
+![cirterios-de-inversion](./media/cirterios-de-inversion.png)
+
+</center>
+
+<center>
+<strong>Tabla 06:</strong> La tabla Criterios de Inversión registra ingresos, egresos y flujo neto de caja 
+(FNC) mensuales durante un periodo de 0 a 5 años.
+</center>
 5.1.2.1. Relación Beneficio/Costo (B/C)
+<center>
 
-En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                
-Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                
-El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
+![relacion-beneficio-costo](./media/relacion-beneficio-costo.png)
 
+</center>
+<center>
+<strong>Tabla 07:</strong> La Relación Beneficio/Costo (B/C) es de 2,07
+</center>
 5.1.2.2. Valor Actual Neto (VAN)
-            
-Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+<center>
+
+![valor-actual-neto](./media/valor-actual-neto.png)
+
+</center>    
+<center>
+<strong>Tabla 08:</strong> El Valor Actual Neto (VAN) es de S/ 1422,73
+</center>        
+
 
 5.1.2.3 Tasa Interna de Retorno (TIR)*
+<center>
 
-Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
+![tasa-interna-de-retorno](./media/tasa-interna-de-retorno.png)
 
-Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
+</center> 
+<center>
+<strong>Tabla 09:</strong> La Tasa Interna de Retorno (TIR) es del 25,5%
+</center>
+
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
