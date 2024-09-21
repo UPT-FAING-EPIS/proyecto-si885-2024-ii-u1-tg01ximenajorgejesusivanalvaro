@@ -406,7 +406,7 @@ Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de
 
 ### 9.4 Estándares de calidad y seguridad
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">El diseño del sistema debe permitir una escalabilidad eficiente, de manera que pueda gestionar el crecimiento tanto en el número de usuarios como en la cantidad de datos procesados sin afectar su rendimiento. Se debe prever el uso de infraestructuras de soporte que permitan aumentar la capacidad de almacenamiento y procesamiento a medida que crezcan las demandas del sistema.</p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
