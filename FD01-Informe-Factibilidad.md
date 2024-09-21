@@ -356,30 +356,17 @@ Se tiene que estimar financieramente el resultado del proyecto.
 
 5.1.1. Beneficios del Proyecto
 
-El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
+- Beneficios tangibles::<p style="text-align: justify;"> 
+   - Mejora en la toma de decisiones académicas por parte de los estudiantes, al proporcionar acceso a estadísticas detalladas de los cursos (15% de mejora en el rendimiento académico).
+   - Reducción de la carga administrativa relacionada con la gestión de datos académicos (20% menos de tiempo invertido en consultas y gestión de información).
+   - Incremento en la precisión de la planificación académica, al centralizar la información en una sola plataforma (25% más eficiente en la elaboración de planes de estudio).
+</p>  
 
-El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            
-Describir beneficios tangibles e intangibles*
-Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
->
-Ejemplo de beneficios:
+- Beneficios tangibles::<p style="text-align: justify;"> 
+   - 
+</p>
 
-- Mejoras en la eficiencia del área bajo estudio.
-- Reducción de personal.
-- Reducción de futuras inversiones y costos.
-- Disponibilidad del recurso humano.
-- Mejoras en planeación, control y uso de recursos.
-- Suministro oportuno de insumos para las operaciones.
-            
-- Cumplimiento de requerimientos gubernamentales.
-- Toma acertada de decisiones.
-- Disponibilidad de información apropiada.
-- Aumento en la confiabilidad de la información.
-- Mejor servicio al cliente externo e interno
-- Logro de ventajas competitivas.
-- Valor agregado a un producto de la compañía.
+
         
 5.1.2. Criterios de Inversión
 <center>
