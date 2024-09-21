@@ -338,8 +338,10 @@ Los costos incluirán desarrollo de la aplicación en Power BI. El servicio ser�
  </li>
     <li><strong>Cinco reportes detallados:</strong>Cada uno enfocado en aspectos específicos del desempeño académico, diseñados para proporcionar insights estratégicos.
  </li>
-    <li><strong></strong></li>
-    <li><strong></strong> </li>
+    <li><strong>Filtros personalizados:</strong> Los usuarios podrán personalizar los reportes y el dashboard según sus necesidades, permitiendo un análisis más enfocado.
+</li>
+    <li><strong>Funcionalidad de exportación:</strong> Permite a los usuarios descargar los reportes en diferentes formatos para un análisis más profundo o para compartir con terceros.
+</li>
 </ul>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
