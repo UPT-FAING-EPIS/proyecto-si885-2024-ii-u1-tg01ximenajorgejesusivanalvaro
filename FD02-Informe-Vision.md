@@ -348,7 +348,18 @@ Los costos incluirán desarrollo de la aplicación en Power BI. El servicio ser�
 
 <h2 id="_Toc52661351">6. Restricciones</h2>
 
-
+<ul style="text-align: justify;">
+    <li>La plataforma PAMIS no brindará servicios educativos directos ni consultas académicas personalizadas. Su propósito se limita únicamente al análisis de datos académicos.
+ </li>
+    <li>No gestionará otros programas académicos, PAMIS estará enfocada exclusivamente en la carrera de Ingeniería de Sistemas, sin incluir la gestión de datos relacionados con otros programas académicos de la Universidad Privada de Tacna.
+ </li>
+    <li>Soporte legal o administrativo,  la plataforma no incluirá asistencia legal o el soporte administrativo fuera del análisis de datos académicos, dejando fuera cualquier tipo de gestión administrativa.
+</li>
+    <li>
+</li>
+    <li>
+</li>
+</ul>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
