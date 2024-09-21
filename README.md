@@ -30,3 +30,8 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
 
 -  [Consolidado Semestre 2022 - II](https://docs.google.com/spreadsheets/d/10kJhI5DXXkWpJ0_mLp-LQxszpHnUWk9N/edit?usp=sharing&ouid=105683032286356296046&rtpof=true&sd=true)
 
+# Enlace de publicación Dashboards PowerBI 
+Se requiere ingresar con una cuenta institucional @upt.pe
+- [Link a PowerBI](https://app.powerbi.com/reportEmbed?reportId=74e61f6c-0ba3-4134-ab66-81a35821c724&autoAuth=true&ctid=b6b466ee-468d-4011-b9fc-fbdcf82ac90a)
+
+---
