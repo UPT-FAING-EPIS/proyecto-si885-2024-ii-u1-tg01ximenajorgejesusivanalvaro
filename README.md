@@ -16,3 +16,17 @@ El propósito de PAMIS es proporcionar una plataforma tecnológica que permita a
 
 ## Docente
 - Mag. Patrick Cuadros Quiroga
+
+## Enlace a los datos
+-  [Consolidado Semestre 2020 - I](https://docs.google.com/spreadsheets/d/1cIg5tDGIJB3h0LbpFJx4EUgkOMIlYVMK/edit?usp=sharing&ouid=105683032286356296046&rtpof=true&sd=true)
+
+-  [Consolidado Semestre 2020 - II](https://docs.google.com/spreadsheets/d/1eaYI-YMzZYpGdQ3vCbRQ28YCHEucd3Fi/edit?usp=sharing&ouid=105683032286356296046&rtpof=true&sd=true)
+
+-  [Consolidado Semestre 2021 - I](https://docs.google.com/spreadsheets/d/1oR_VQalTpQ3ZywmnBypG0NKYe4vTw7sf/edit?usp=sharing&ouid=105683032286356296046&rtpof=true&sd=true)
+
+-  [Consolidado Semestre 2021 - II](https://docs.google.com/spreadsheets/d/1x3-4pQaRQgEPI5ymfbOjxNAuNmJLEyI3/edit?usp=sharing&ouid=105683032286356296046&rtpof=true&sd=true)
+
+-  [Consolidado Semestre 2022 - I](https://docs.google.com/spreadsheets/d/1rwH7N_DOPicpMzaNN9rf5wD1CHzeQA0E/edit?usp=sharing&ouid=105683032286356296046&rtpof=true&sd=true)
+
+-  [Consolidado Semestre 2022 - II](https://docs.google.com/spreadsheets/d/10kJhI5DXXkWpJ0_mLp-LQxszpHnUWk9N/edit?usp=sharing&ouid=105683032286356296046&rtpof=true&sd=true)
+
