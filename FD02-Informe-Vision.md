@@ -344,7 +344,17 @@ Los costos incluirán desarrollo de la aplicación en Power BI. El servicio ser�
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 <h2 id="_Toc52661352">7. Rangos de Calidad</h2>
+Disponibilidad: La plataforma PAMIS debe estar disponible al menos el 99.5% del tiempo, excluyendo los períodos de mantenimiento programado.
 
+Precisión de los Datos: La precisión de los datos es esencial para el éxito de PAMIS. Los datos académicos presentados en la plataforma deben corresponder al 100% con los registros oficiales. Esto garantiza que los análisis y reportes sean fiables y exactos.
+
+Facilidad de Uso: PAMIS debe ser accesible para estudiantes y docentes, independientemente de su nivel técnico. Al menos el 90% de los usuarios deben ser capaces de generar reportes y visualizar datos sin requerir asistencia técnica adicional. Se espera que el 80% de los usuarios expresen satisfacción con la usabilidad de la plataforma mediante encuestas.
+
+Capacidad de Exportación de Datos: Los usuarios deben tener la capacidad de exportar los reportes generados en PAMIS en formatos accesibles como PDF y Excel. El 100% de los reportes deben exportarse sin errores de formato y deben mantener la estructura visual y de datos que aparece en la plataforma, permitiendo su análisis fuera del entorno de PowerBI.
+
+Interactividad y Visualización de Datos: La interactividad de la plataforma es clave para que los usuarios puedan personalizar su experiencia. Los estudiantes y docentes deben poder aplicar filtros y segmentaciones con una precisión del 95%, lo que permitirá un análisis detallado y específico.
+
+Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de éxito para PAMIS. Al menos el 85% de los usuarios deben expresar satisfacción con la plataforma mediante encuestas de feedback, mientras que el 80% de ellos deben recomendar la herramienta como útil para el análisis académico. Esto reflejará que PAMIS está cumpliendo con sus objetivos de proporcionar valor a sus usuarios.
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
