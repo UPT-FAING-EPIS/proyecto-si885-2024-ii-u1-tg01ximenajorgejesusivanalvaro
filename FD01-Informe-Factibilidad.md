@@ -362,8 +362,10 @@ Se tiene que estimar financieramente el resultado del proyecto.
    - Incremento en la precisión de la planificación académica, al centralizar la información en una sola plataforma (25% más eficiente en la elaboración de planes de estudio).
 </p>  
 
-- Beneficios tangibles::<p style="text-align: justify;"> 
-   - 
+- Beneficios intangibles::<p style="text-align: justify;"> 
+   - Promueve una cultura de análisis y toma de decisiones basada en datos entre los estudiantes.
+   - Fomenta una experiencia educativa más personalizada y orientada al éxito académico.
+   - Contribuye a la mejora continua en la calidad educativa, al proporcionar herramientas para identificar áreas de oportunidad en el rendimiento académico.
 </p>
 
 
