@@ -402,7 +402,7 @@ Satisfacción del Usuario: La satisfacción del usuario es un indicador clave de
 
 ### 9.3 Estándares de complimiento de la plataforma
 
-<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Implementación de controles de seguridad que protejan la integridad, confidencialidad y disponibilidad de los datos de los usuarios. Esto incluye mecanismos de autenticación robusta, encriptación de la información sensible y auditorías regulares para identificar posibles vulnerabilidades.</p>
 
 ### 9.4 Estándares de calidad y seguridad
 
