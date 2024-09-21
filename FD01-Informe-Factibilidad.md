@@ -256,18 +256,18 @@ Se definieron los siguientes costos:
 </center>
 
 <center>
-<strong>Tabla 01:</strong> En Costos Generales se detallan las utilidades con sus cantidades, precios por mes con un total de S/ 2,960.00
+<strong>Tabla 01:</strong> En Costos Generales se detallan las utilidades con sus cantidades y precios haciendo un total de S/20.00
 </center>
 
 #### 4.2.2. Costos operativos durante el desarrollo 
 
 <center>
 
-![costos-operativos](./media/Costos-Operativos.png)
+
 </center>
 
 <center>
-<strong>Tabla 02:</strong> En Costos operativos se listan los costos mensuales de servicios como luz y agua durante 4 meses con un total de S/ 560.00
+En Costos operativos se listan los costos mensuales de servicios. En este caso, no se realizaron gastos para el desarollo del sistema.
 </center>
 
 #### 4.2.3. Costos del ambiente
@@ -278,18 +278,19 @@ Se definieron los siguientes costos:
 </center>
 
 <center>
-<strong>Tabla 03:</strong> En Costos del Ambiente  se muestra el costo por internet durante 4 meses con un total de S/ 260.00
+<strong>Tabla 02:</strong> En Costos del Ambiente  se muestra el costo del servidor en el que estará desplegado el sistema durante 5 años, haciendo un total de S/1,000
 </center>
 
 #### 4.2.4. Costos de personal
 
 <center>
 
+![costos-personal](./media/costos-personal-detalle.png)
 ![costos-personal](./media/Costos-Personal.png)
 </center>
 
 <center>
-<strong>Tabla 04:</strong> El Costo de Personal muestra los salarios mensuales y totales de 4 meses para un Desarrollador, un Especialista en Visualizacion de Datos y un Director de Proyecto, con un costo total combinado de S/ 23,400.00
+<strong>Tabla 03:</strong> El Costo de Personal muestra los salarios mensuales y totales de 2 meses para el desarrollo de PAMIS, con un costo total combinado de S/ 10,248.00
 </center>
 
 #### 4.2.5.  Costos totales del desarrollo del sistema
@@ -300,7 +301,7 @@ Se definieron los siguientes costos:
 </center>
 
 <center>
-<strong>Tabla 05:</strong> En Costos Totales se resume los subtotales de los costos generales, operativos, de personal y del ambiente, llegando a un total acumulado de S/ 27,180.00
+<strong>Tabla 04:</strong> En Costos Totales se resume los subtotales de los costos generales, de personal y del ambiente, llegando a un total acumulado de S/ 10,533.00
 </center>
 <br>
 
@@ -418,7 +419,7 @@ Ejemplo de beneficios:
 
 </center> 
 <center>
-<strong>Tabla 09:</strong> La Tasa Interna de Retorno (TIR) es del 25,5%
+<strong>Tabla 09:</strong> La Tasa Interna de Retorno (TIR) es del 6,9%
 </center>
 
 
