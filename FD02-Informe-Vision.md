@@ -349,6 +349,11 @@ operativos, de personal y del ambiente, llegando a un total acumulado de S/27,18
 
 <h2 id="_Toc52661353">8. Precedencia y Prioridad</h2>
 
+* La creación de un dashboard interactivo es una de las prioridades más altas del proyecto. Este desarrollo incluirá la implementación de funcionalidades que permitan a los usuarios visualizar y explorar datos de rendimiento académico, tasas de aprobación y otros indicadores clave a través de gráficos y tablas dinámicas.
+* Es prioritario que la plataforma PAMIS integre capacidades avanzadas de análisis de datos dentro de PowerBI. Esto incluye la implementación de algoritmos que permitan identificar patrones y tendencias en los datos de manera eficiente y precisa.
+* El rendimiento de la plataforma es una prioridad importante, especialmente en términos de tiempo de respuesta y capacidad de manejo de grandes volúmenes de datos. La optimización del rendimiento asegura una experiencia de usuario fluida y efectiva.
+* La usabilidad de la plataforma es otra prioridad clave, asegurando que los usuarios puedan acceder fácilmente a la información que necesitan y navegar por la plataforma sin complicaciones. Esto incluye una interfaz de usuario bien diseñada y procesos simplificados.
+
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
