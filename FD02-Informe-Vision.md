@@ -372,6 +372,12 @@ operativos, de personal y del ambiente, llegando a un total acumulado de S/27,18
 
 <h2 id="_Toc52661355">10. Conclusiones</h2>
 
+* **Transformación de la gestión académica mediante el análisis de datos:** PAMIS ofrece una solución innovadora que mejora significativamente la forma en que estudiantes y administradores interactúan con los datos académicos. A través de la visualización en tiempo real, permite tomar decisiones más informadas sobre el rendimiento académico, tanto para los estudiantes como para la institución. Esta capacidad de análisis profundo facilita la identificación de patrones y tendencias, optimizando los procesos de aprendizaje y enseñanza.
+
+* **Facilitación de la toma de decisiones estratégicas:** Al proporcionar a estudiantes y docentes un acceso fácil a datos analíticos sobre el desempeño en cada curso, PAMIS fomenta un enfoque proactivo hacia la educación. Los estudiantes pueden ajustar sus estrategias de estudio basándose en informes precisos, mientras que los administradores pueden tomar decisiones más estratégicas respecto a la distribución de recursos y la planificación educativa. Este enfoque basado en datos ayuda a mejorar la calidad académica y la eficiencia en la gestión institucional.
+
+* **Enfoque en la mejora continua del rendimiento académico:** La plataforma no solo permite visualizar resultados pasados, sino que también es una herramienta crucial para anticipar problemas futuros. Con informes detallados y personalizables, tanto estudiantes como docentes pueden trabajar en áreas de mejora continua. El análisis detallado de los resultados académicos por curso y semestre ayuda a identificar rápidamente a aquellos estudiantes que necesitan apoyo adicional, lo que puede incrementar significativamente las tasas de éxito.
+
 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
