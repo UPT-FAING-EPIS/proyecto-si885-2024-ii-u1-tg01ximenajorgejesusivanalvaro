@@ -102,18 +102,26 @@ Desarrollar una plataforma de análisis de datos de matriculados en la carrera d
 
 #### 1.4.2. Objetivos Específicos
 
+## Análisis de Matrículas:
+- **Objetivo:** Proporcionar una visión clara sobre las tasas de matriculación y su evolución a lo largo del tiempo para identificar tendencias y patrones de inscripción.
+- **Meta:** Facilitar la identificación de picos o caídas en las matrículas, ayudando en la planificación de recursos y estrategias de captación.
 
-- **Recopilar y procesar datos históricos de los cursos:**<p style="text-align: justify;">
-Se logrará obtener una base de datos confiable que contenga información relevante como tasas de aprobación, índices de deserción, y distribución de calificaciones para su posterior análisis y visualización.
-<p>
+## Desempeño Académico por Curso:
+- **Objetivo:** Evaluar el rendimiento académico en cada curso a través de la visualización de tasas de aprobación y calificaciones.
+- **Meta:** Ofrecer a los estudiantes una comprensión detallada de su desempeño y motivarlos a mejorar en áreas específicas.
 
-- **Desarrollar una interfaz de usuario intuitiva:**<p style="text-align: justify;">Se diseñará una plataforma que permita a los estudiantes acceder fácilmente a las estadísticas de los cursos, facilitando la comprensión y el uso de la información para la toma de decisiones.
-<p>
+## Análisis Comparativo entre Cortes:
+- **Objetivo:** Realizar comparaciones del rendimiento académico entre diferentes generaciones de estudiantes para identificar cambios y tendencias a lo largo del tiempo.
+- **Meta:** Proporcionar información que ayude a entender cómo diferentes cohortes responden a los planes de estudio y a las metodologías de enseñanza.
 
-- **Implementar herramientas de visualización de datos:**<p style="text-align: justify;">Se integrarán gráficos y tablas interactivos que ayuden a identificar patrones y tendencias en el rendimiento de los cursos, proporcionando una visión clara y concisa a los estudiantes.
-<p>
+## Identificación de Áreas Críticas:
+- **Objetivo:** Detectar cursos o áreas académicas con un alto índice de desaprobación para implementar estrategias de mejora.
+- **Meta:** Informar a la administración y a los docentes sobre los cursos que requieren atención adicional, promoviendo acciones correctivas oportunas.
 
-- **Generar informes personalizados:**<p style="text-align: justify;">Se permitirá a los estudiantes obtener informes específicos sobre los cursos de su interés, lo que contribuirá a una planificación académica más efectiva.
+## Análisis de Matriculados por Docente:
+- **Objetivo:** Evaluar el rendimiento de los estudiantes en relación con los docentes a través de la tasa de aprobación y la probabilidad de éxito.
+- **Meta:** Proporcionar información valiosa sobre la efectividad docente y permitir ajustes en la asignación de cursos, buscando mejorar la experiencia académica.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
